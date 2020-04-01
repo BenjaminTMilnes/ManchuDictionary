@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<entry>
+    <unicode></unicode>
+    <part-of-speech></part-of-speech>
+    <romanisations>
+        <moellendorff>te</moellendorff>
+    </romanisations>
+    <interpretations>
+        <interpretation>
+            <english>now</english>
+            <references>
+                <reference type="book">
+                    <title>A Manchu Grammar, with Analysed Texts</title>
+                    <author>P. G. Von Möllendorff</author>
+                    <publication-date>1892</publication-date>
+                </reference>
+            </references>
+        </interpretation>
+    </interpretations>
+</entry>

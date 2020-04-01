@@ -1,0 +1,61 @@
+{
+    "Entries": [
+        {
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "donjimbi"
+            },
+            "Interpretations": [
+                {
+                    "English": "to hear",
+                    "References": [
+                        {
+                            "Title": "A Manchu Grammar, with Analysed Texts",
+                            "Author": "P. G. Von Mo\u0308llendorff",
+                            "PublicationDate": "1892"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": "pronoun",
+            "Romanisations": {
+                "Moellendorff": "si"
+            },
+            "Interpretations": [
+                {
+                    "English": "thou",
+                    "References": [
+                        {
+                            "Title": "A Manchu Grammar, with Analysed Texts",
+                            "Author": "P. G. Von Mo\u0308llendorff",
+                            "PublicationDate": "1892"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "te"
+            },
+            "Interpretations": [
+                {
+                    "English": "now",
+                    "References": [
+                        {
+                            "Title": "A Manchu Grammar, with Analysed Texts",
+                            "Author": "P. G. Von Mo\u0308llendorff",
+                            "PublicationDate": "1892"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

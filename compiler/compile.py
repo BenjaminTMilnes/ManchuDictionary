@@ -24,12 +24,16 @@ class Compiler (object):
         unicode_string = root.find("./unicode").text
         part_of_speech = root.find("./part-of-speech").text
         moellendorff = root.find("./romanisations/moellendorff").text
+        west = root.find("./romanisations/west").text
+        cmcd = root.find("./romanisations/cmcd").text
         interpretations = root.findall("./interpretations/interpretation")
 
         entry["Unicode"] = unicode_string
         entry["PartOfSpeech"] = part_of_speech
         entry["Romanisations"] = {}
         entry["Romanisations"]["Moellendorff"] = moellendorff
+        entry["Romanisations"]["West"] = west
+        entry["Romanisations"]["CMCD"] = cmcd
         
         entry["Interpretations"] = []
 

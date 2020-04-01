@@ -4,7 +4,9 @@
             "Unicode": null,
             "PartOfSpeech": "verb",
             "Romanisations": {
-                "Moellendorff": "donjimbi"
+                "Moellendorff": "donjimbi",
+                "West": null,
+                "CMCD": null
             },
             "Interpretations": [
                 {
@@ -23,7 +25,9 @@
             "Unicode": null,
             "PartOfSpeech": "pronoun",
             "Romanisations": {
-                "Moellendorff": "si"
+                "Moellendorff": "si",
+                "West": null,
+                "CMCD": null
             },
             "Interpretations": [
                 {
@@ -42,7 +46,9 @@
             "Unicode": null,
             "PartOfSpeech": null,
             "Romanisations": {
-                "Moellendorff": "te"
+                "Moellendorff": "te",
+                "West": null,
+                "CMCD": null
             },
             "Interpretations": [
                 {

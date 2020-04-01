@@ -1,3 +1,9 @@
+
+
+function stringIsNullOrEmpty(string) {
+    return (!string || /^\s*$/.test(string));
+}
+
 var application = angular.module("ManchuDictionary", ["ngRoute", "ngSanitize"]);
 
 application.config(function ($routeProvider) {

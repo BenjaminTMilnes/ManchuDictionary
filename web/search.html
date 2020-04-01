@@ -1,0 +1,25 @@
+<div class="search">
+    <div class="search-textbox">
+        <input type="text" ng-model="searchTerms" placeholder="" />
+    </div>
+    <div class="search-results-pagenumbers">
+        <div class="pagenumber pagenumber-unselected" ng-click="setPageNumber(pageNumber - 1)">&larr;</div>
+        <div class="pagenumber {{page.class}}" ng-repeat="page in pages" ng-click="setPageNumber(page.pageNumber)">{{(page.pageNumber == -1) ? "..." : page.pageNumber}}</div>
+        <div class="pagenumber pagenumber-unselected" ng-click="setPageNumber(pageNumber + 1)">&rarr;</div>
+    </div>
+    <div class="search-results">
+        <div class="search-results-leftcolumn">
+            <div ng-repeat="entry in currentPageSearchResults">
+                <div>{{entry.Romanisations.Moellendorff}}</div>
+            </div>
+        </div>
+        <div class="search-results-rightcolumn">
+
+        </div>
+    </div>
+    <div class="search-results-pagenumbers">
+        <div class="pagenumber pagenumber-unselected" ng-click="setPageNumber(pageNumber - 1)">&larr;</div>
+        <div class="pagenumber {{page.class}}" ng-repeat="page in pages" ng-click="setPageNumber(page.pageNumber)">{{(page.pageNumber == -1) ? "..." : page.pageNumber}}</div>
+        <div class="pagenumber pagenumber-unselected" ng-click="setPageNumber(pageNumber + 1)">&rarr;</div>
+    </div>
+</div>

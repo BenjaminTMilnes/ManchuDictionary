@@ -1,0 +1,33 @@
+
+.leftright{
+     display: flex;
+      flex-direction: row;  
+
+}
+
+.leftinput{
+     flex-basis: 50%;
+}
+
+.rightinput{
+    flex-basis: 50%;
+}
+
+.romanisationinput{
+       width: 100%;
+        box-sizing: border-box;
+         font-family: inherit;
+          font-weight: inherit;
+           font-size: 2em;
+}
+
+.manchuoutput{
+    width: 100%;
+    box-sizing: border-box;
+    font-family: inherit;
+     font-weight: inherit;
+      font-size: 2em;
+     writing-mode: vertical-lr;
+           direction: ltr;
+        border: none;
+}

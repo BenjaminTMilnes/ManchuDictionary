@@ -1,0 +1,113 @@
+body {
+    margin: 0px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: lighter;
+    color: #202020;
+    overflow-wrap: break-word;
+}
+
+.mainpage {
+    padding: 20px;
+}
+
+.centrecolumn {
+    max-width: 1000px;
+    margin: 0px auto;
+}
+
+@media (min-width:400px) {
+    .mainpage {
+        padding: 40px;
+    }
+}
+
+@media (min-width:700px) {
+    .mainpage {
+        padding: 70px;
+        overflow-wrap: normal;
+    }
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, ol, table, div, input {
+    font-family: inherit;
+    font-weight: inherit;
+}
+
+h1 {
+    font-size: 17px;
+    text-transform: uppercase;
+    margin: 17px 0px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 20px;
+    text-align: left;
+}
+
+p {
+    font-size: 14px;
+    margin: 17px 0px;
+    text-align: left;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-color: #D0D0D0;
+    margin: 20px 0px;
+}
+
+@media (min-width:400px) {
+    h1 {
+        font-size: 22px;
+        margin: 0px 0px 22px 0px;
+        text-align: left;
+    }
+    h2 {
+        font-size: 27px;
+    }
+    p {
+        font-size: 17px;
+        margin: 22px 0px;
+        text-align: justify;
+    }
+    hr {
+        margin: 40px 0px;
+    }
+}
+
+@media (min-width:700px) {
+    hr {
+        margin: 70px 0px;
+    }
+}
+
+p strong {
+    font-weight: normal;
+}
+
+a {
+    color: #105ecc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.copybutton {
+    font-size: 17px;
+    padding: 7px 17px;
+    margin: 2px 2px 2px 0px;
+    border-radius: 2px;
+    color: #ffffff;
+    font-weight: normal;
+    background-color: #105ecc;
+    border: none;
+    cursor: pointer;
+}
+
+.copybutton:hover {
+    background-color: #2f7ae2;
+}

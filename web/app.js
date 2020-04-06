@@ -8,7 +8,8 @@ var application = angular.module("ManchuDictionary", ["ngRoute", "ngSanitize"]);
 
 application.config(function ($routeProvider) {
     $routeProvider
-        .when("/", { templateUrl: "search.html", controller: "SearchController" });
+        .when("/", { templateUrl: "search.html", controller: "SearchController" })
+        .when("/write", { templateUrl: "write.html", controller: "WriteController" });
 });
 
 application.directive("compile", ["$compile", function ($compile) {

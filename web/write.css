@@ -1,33 +1,41 @@
-
-.leftright{
-     display: flex;
-      flex-direction: row;  
-
+.leftright {
+    display: flex;
+    flex-direction: row;
 }
 
-.leftinput{
-     flex-basis: 50%;
-}
-
-.rightinput{
+.leftinput {
     flex-basis: 50%;
 }
 
-.romanisationinput{
-       width: 100%;
-        box-sizing: border-box;
-         font-family: inherit;
-          font-weight: inherit;
-           font-size: 2em;
+.rightinput {
+    flex-basis: 50%;
 }
 
-.manchuoutput{
+.romanisationinput {
     width: 100%;
     box-sizing: border-box;
     font-family: inherit;
-     font-weight: inherit;
-      font-size: 2em;
-     writing-mode: vertical-lr;
-           direction: ltr;
-        border: none;
+    font-weight: inherit;
+    font-size: 1.5em;
+    padding: 15px;
+    border: 1px solid rgb(0, 0, 0, 0.2);
+    border-radius: 1px;
+    outline: none;
+    min-height: 300px;
+}
+
+.romanisationinput:focus {
+    border: 1px solid #105ecc;
+}
+
+.manchuoutput {
+    width: 100%;
+    box-sizing: border-box;
+    font-family: inherit;
+    font-weight: inherit;
+    font-size: 3em;
+    writing-mode: vertical-lr;
+    direction: ltr;
+    padding: 15px;
+    max-height: 300px;
 }

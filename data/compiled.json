@@ -13,6 +13,22 @@
             "Unicode": null,
             "PartOfSpeech": "noun",
             "Romanisations": {
+                "Moellendorff": "baita"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "thing; matter",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
                 "Moellendorff": "bithe"
             },
             "Interpretations": [
@@ -45,12 +61,60 @@
             "Unicode": null,
             "PartOfSpeech": "noun",
             "Romanisations": {
+                "Moellendorff": "gisun"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "word; speech",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
                 "Moellendorff": "manju"
             },
             "Interpretations": [
                 {
                     "Language": "english",
                     "Text": "Manchu; the Manchu language",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": "adjective",
+            "Romanisations": {
+                "Moellendorff": "oyonggo"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "important",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": "adjective",
+            "Romanisations": {
+                "Moellendorff": "sain"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "good",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -115,6 +179,38 @@
                 {
                     "Language": "english",
                     "Text": "now",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "uju"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "first",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": "adverb",
+            "Romanisations": {
+                "Moellendorff": "umesi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "very",
                     "References": [
                         "Moellendorff1892"
                     ]

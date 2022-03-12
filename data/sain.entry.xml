@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<entry>
+    <unicode></unicode>
+    <part-of-speech>adjective</part-of-speech>
+    <romanisations>
+        <romanisation system="moellendorff">sain</romanisation>
+    </romanisations>
+    <interpretations>
+        <interpretation language="english" references="Moellendorff1892">
+            <text>good</text>
+        </interpretation>
+    </interpretations>
+</entry>

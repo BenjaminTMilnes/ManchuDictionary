@@ -119,6 +119,9 @@ application.controller("SearchController", ["$scope", "$rootScope", "$routeParam
         else if (partOfSpeech == "pronoun"){
             return "pro.";
         }
+        else if (partOfSpeech == "adjective"){
+            return "adj.";
+        }
 
         return "";
     }

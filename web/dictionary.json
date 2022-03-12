@@ -28,6 +28,42 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "age",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "age"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "elder brother; sir",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {}
+        },
+        {
+            "URLReference": "ahun",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "ahun"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "elder brother",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {}
+        },
+        {
             "URLReference": "ai",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -120,6 +156,31 @@
                     "Unicode": "",
                     "Romanisations": {
                         "Moellendorff": "bahanarakuuci"
+                    }
+                }
+            }
+        },
+        {
+            "URLReference": "baimbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "baimbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to request",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "future_participle": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "baire"
                     }
                 }
             }
@@ -240,6 +301,24 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "emude",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "emude"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "firstly",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {}
+        },
+        {
             "URLReference": "funcembi",
             "Unicode": null,
             "PartOfSpeech": "verb",
@@ -263,6 +342,24 @@
                     }
                 }
             }
+        },
+        {
+            "URLReference": "geli",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "geli"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "also",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {}
         },
         {
             "URLReference": "gemu",
@@ -344,6 +441,24 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "isinambi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "isinambi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to arrive",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {}
+        },
+        {
             "URLReference": "jai",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -354,6 +469,24 @@
                 {
                     "Language": "english",
                     "Text": "second; further",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {}
+        },
+        {
+            "URLReference": "jaide",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "jaide"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "secondly",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -474,6 +607,12 @@
                     "Romanisations": {
                         "Moellendorff": "oci"
                     }
+                },
+                "past_gerund": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "ofi"
+                    }
                 }
             }
         },
@@ -512,6 +651,49 @@
                 }
             ],
             "Inflexions": {}
+        },
+        {
+            "URLReference": "sakda",
+            "Unicode": null,
+            "PartOfSpeech": "adjective",
+            "Romanisations": {
+                "Moellendorff": "sakda"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "old; experienced",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {}
+        },
+        {
+            "URLReference": "sartabumbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "sartabumbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to be delayed",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "future_tense": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "sartabure"
+                    }
+                }
+            }
         },
         {
             "URLReference": "sembi",
@@ -643,6 +825,31 @@
             }
         },
         {
+            "URLReference": "tuwanjimbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "tuwanjimbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to call",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "preterite": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "tuwanjiha"
+                    }
+                }
+            }
+        },
+        {
             "URLReference": "ubaliyam-bumbi",
             "Unicode": null,
             "PartOfSpeech": "verb",
@@ -732,6 +939,24 @@
                 {
                     "Language": "english",
                     "Text": "therefore; it is as",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {}
+        },
+        {
+            "URLReference": "uttu",
+            "Unicode": null,
+            "PartOfSpeech": "conjunction",
+            "Romanisations": {
+                "Moellendorff": "uttu"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "thus",
                     "References": [
                         "Moellendorff1892"
                     ]

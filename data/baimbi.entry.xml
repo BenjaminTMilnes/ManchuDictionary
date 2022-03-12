@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<entry>
+    <unicode></unicode>
+    <part-of-speech>verb</part-of-speech>
+    <romanisations>
+        <romanisation system="moellendorff">baimbi</romanisation>
+    </romanisations>
+    <interpretations>
+        <interpretation language="english" references="Moellendorff1892">
+            <text>to request</text>
+        </interpretation>
+    </interpretations>
+    <inflexions>
+        <inflexion type="future_participle">
+            <romanisations>
+                <romanisation system="moellendorff">baire</romanisation>
+            </romanisations>
+        </inflexion>
+    </inflexions>
+</entry>

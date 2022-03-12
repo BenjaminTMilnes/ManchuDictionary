@@ -14,10 +14,20 @@
             <h3>Inflexions</h3>
             <table class="entry-inflexions-table">
                 <tbody>
+                    <tr ng-if="entry.Inflexions['infinitive'] != null">
+                        <td class="inflexion-type">Infinitive</td>
+                        <td class="inflexion-manchu">{{convertRomanisation(entry.Inflexions['infinitive'].Romanisations.Moellendorff)}}</td>
+                        <td class="inflexion-romanisation-moellendorff">{{entry.Inflexions['infinitive'].Romanisations.Moellendorff}}</td>
+                    </tr>
                     <tr ng-if="entry.Inflexions['present_tense_interrogative'] != null">
                         <td class="inflexion-type">Present Tense Interrogative</td>
                         <td class="inflexion-manchu">{{convertRomanisation(entry.Inflexions['present_tense_interrogative'].Romanisations.Moellendorff)}}</td>
                         <td class="inflexion-romanisation-moellendorff">{{entry.Inflexions['present_tense_interrogative'].Romanisations.Moellendorff}}</td>
+                    </tr>
+                    <tr ng-if="entry.Inflexions['future_participle'] != null">
+                        <td class="inflexion-type">Future Participle</td>
+                        <td class="inflexion-manchu">{{convertRomanisation(entry.Inflexions['future_participle'].Romanisations.Moellendorff)}}</td>
+                        <td class="inflexion-romanisation-moellendorff">{{entry.Inflexions['future_participle'].Romanisations.Moellendorff}}</td>
                     </tr>
                     <tr ng-if="entry.Inflexions['future_tense'] != null">
                         <td class="inflexion-type">Future Tense</td>
@@ -38,6 +48,11 @@
                         <td class="inflexion-type">Conditional</td>
                         <td class="inflexion-manchu">{{convertRomanisation(entry.Inflexions['conditional_tense'].Romanisations.Moellendorff)}}</td>
                         <td class="inflexion-romanisation-moellendorff">{{entry.Inflexions['conditional_tense'].Romanisations.Moellendorff}}</td>
+                    </tr>
+                    <tr ng-if="entry.Inflexions['past_gerund'] != null">
+                        <td class="inflexion-type">Past Gerund</td>
+                        <td class="inflexion-manchu">{{convertRomanisation(entry.Inflexions['past_gerund'].Romanisations.Moellendorff)}}</td>
+                        <td class="inflexion-romanisation-moellendorff">{{entry.Inflexions['past_gerund'].Romanisations.Moellendorff}}</td>
                     </tr>
                 </tbody>
             </table>

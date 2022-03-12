@@ -99,6 +99,7 @@
     color: white;
     font-weight: normal;
     font-size: 14px;
+    user-select: none;
 }
 
 .tag-noun {

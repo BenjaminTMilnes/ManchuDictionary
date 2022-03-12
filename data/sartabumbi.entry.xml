@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<entry>
+    <unicode></unicode>
+    <part-of-speech>verb</part-of-speech>
+    <romanisations>
+        <romanisation system="moellendorff">sartabumbi</romanisation>
+    </romanisations>
+    <interpretations>
+        <interpretation language="english" references="Moellendorff1892">
+            <text>to be delayed</text>
+        </interpretation>
+    </interpretations>
+    <inflexions>
+        <inflexion type="future_tense">
+            <romanisations>
+                <romanisation system="moellendorff">sartabure</romanisation>
+            </romanisations>
+        </inflexion>
+    </inflexions>
+</entry>

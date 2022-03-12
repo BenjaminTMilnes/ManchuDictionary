@@ -21,5 +21,10 @@
                 <romanisation system="moellendorff">oci</romanisation>
             </romanisations>
         </inflexion>
+        <inflexion type="past_gerund">
+            <romanisations>
+                <romanisation system="moellendorff">ofi</romanisation>
+            </romanisations>
+        </inflexion>
     </inflexions>
 </entry>

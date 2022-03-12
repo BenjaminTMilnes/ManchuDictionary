@@ -23,7 +23,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -39,7 +40,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -55,7 +57,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -71,7 +74,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -87,7 +91,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -103,7 +108,15 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {
+                "future_tense_negated": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "bahanarakuuci"
+                    }
+                }
+            }
         },
         {
             "Unicode": null,
@@ -119,7 +132,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -135,7 +149,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -151,7 +166,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -167,7 +183,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -183,7 +200,15 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {
+                "conditional_tense": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "donjici"
+                    }
+                }
+            }
         },
         {
             "Unicode": null,
@@ -199,7 +224,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -215,7 +241,15 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {
+                "infinitive": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "funceme"
+                    }
+                }
+            }
         },
         {
             "Unicode": null,
@@ -231,7 +265,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -247,7 +282,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -263,7 +299,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -279,7 +316,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -295,7 +333,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -311,7 +350,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -327,7 +367,21 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {
+                "plural": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "nikasa"
+                    }
+                },
+                "plural_genitive": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "nikasai"
+                    }
+                }
+            }
         },
         {
             "Unicode": null,
@@ -343,7 +397,21 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {
+                "present_tense_interrogative": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "ombio"
+                    }
+                },
+                "conditional": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "oci"
+                    }
+                }
+            }
         },
         {
             "Unicode": null,
@@ -359,7 +427,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -375,7 +444,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -391,7 +461,15 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {
+                "future_participle": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "serengge"
+                    }
+                }
+            }
         },
         {
             "Unicode": null,
@@ -407,7 +485,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -423,7 +502,15 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {
+                "preterite": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "taciha"
+                    }
+                }
+            }
         },
         {
             "Unicode": null,
@@ -439,7 +526,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -455,7 +543,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -471,7 +560,15 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {
+                "future_negated": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "tucirakuu"
+                    }
+                }
+            }
         },
         {
             "Unicode": null,
@@ -487,7 +584,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -503,7 +601,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -519,7 +618,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -535,7 +635,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         },
         {
             "Unicode": null,
@@ -551,7 +652,8 @@
                         "Moellendorff1892"
                     ]
                 }
-            ]
+            ],
+            "Inflexions": {}
         }
     ]
 }

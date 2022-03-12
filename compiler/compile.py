@@ -34,11 +34,13 @@ class Compiler (object):
         part_of_speech = root.find("./part-of-speech").text
         romanisations = root.findall("./romanisations/romanisation")
         interpretations = root.findall("./interpretations/interpretation")
+        inflexions = root.findall("./inflexions/inflexion")
 
         entry["Unicode"] = unicode_string
         entry["PartOfSpeech"] = part_of_speech
         entry["Romanisations"] = {}       
         entry["Interpretations"] = []
+        entry["Inflexions"] = {}
 
         for r in romanisations:
             system = r.attrib["system"]
@@ -53,7 +55,6 @@ class Compiler (object):
             if system == "cmcd":
                 entry["Romanisations"]["CMCD"] = text 
 
-
         for i in interpretations:
             language = i.attrib["language"]
             text = i.find("./text").text
@@ -65,6 +66,29 @@ class Compiler (object):
             interpretation["References"] = references 
             
             entry["Interpretations"].append(interpretation)
+
+        for i in inflexions:
+            _type = i.attrib["type"]
+            romanisations = i.findall("./romanisations/romanisation")
+
+            inflexion = {}
+            inflexion["Unicode"] = ""
+            inflexion["Romanisations"] = {}
+
+            for r in romanisations:
+                system = r.attrib["system"]
+                text = r.text 
+
+                if system == "moellendorff":
+                    inflexion["Romanisations"]["Moellendorff"] = text 
+
+                if system == "west":
+                    inflexion["Romanisations"]["West"] = text 
+
+                if system == "cmcd":
+                    inflexion["Romanisations"]["CMCD"] = text 
+
+            entry["Inflexions"][_type] = inflexion
 
         return entry            
 

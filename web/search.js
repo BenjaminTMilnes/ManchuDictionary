@@ -50,13 +50,10 @@ application.controller("SearchController", ["$scope", "$rootScope", "$routeParam
 
     $scope.searchTerms = "";
 
-    $scope.numberOfEntries = 0;
-
     $scope.converter = new RomanisationConverter();
 
     dataService.getData().then(function (data) {
         $scope.entries = data.Entries;
-        $scope.numberOfEntries = $scope.entries.length;
 
         $scope.updateSearchResults($scope.searchTerms);
     });

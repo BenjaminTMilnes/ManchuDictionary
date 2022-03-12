@@ -50,6 +50,8 @@ application.controller("SearchController", ["$scope", "$rootScope", "$routeParam
 
     $scope.searchTerms = "";
 
+    $scope.converter = new RomanisationConverter();
+
     dataService.getData().then(function (data) {
         $scope.entries = data.Entries;
 
@@ -102,5 +104,23 @@ application.controller("SearchController", ["$scope", "$rootScope", "$routeParam
     $scope.$watch("searchTerms", function (newValue, oldValue) {
         $scope.updateSearchResults(newValue);
     });
+
+    $scope.convertRomanisation = function (romanisation) {
+        return $scope.converter.getManchu(romanisation);
+    }
+
+    $scope.getPartOfSpeechAbbreviation = function(partOfSpeech){
+        if (partOfSpeech == "verb"){
+            return "v.";
+        }
+        else if (partOfSpeech == "noun"){
+            return "n.";
+        }
+        else if (partOfSpeech == "pronoun"){
+            return "pro.";
+        }
+
+        return "";
+    }
 
 }]);

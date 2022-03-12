@@ -3,20 +3,11 @@
     <unicode></unicode>
     <part-of-speech>pronoun</part-of-speech>
     <romanisations>
-        <moellendorff>si</moellendorff>
-        <west></west>
-        <cmcd></cmcd>
+        <romanisation system="moellendorff">si</romanisation>
     </romanisations>
     <interpretations>
-        <interpretation>
-            <english>thou</english>
-            <references>
-                <reference type="book">
-                    <title>A Manchu Grammar, with Analysed Texts</title>
-                    <author>P. G. Von Möllendorff</author>
-                    <publication-date>1892</publication-date>
-                </reference>
-            </references>
+        <interpretation language="english" references="Moellendorff1892">
+            <text>thou</text>
         </interpretation>
     </interpretations>
 </entry>

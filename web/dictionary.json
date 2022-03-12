@@ -1,22 +1,74 @@
 {
+    "References": {
+        "Moellendorff1892": {
+            "Reference": "Moellendorff1892",
+            "Type": "book",
+            "Title": "A Manchu Grammar, with Analysed Texts",
+            "Author": "P. G. Von Mo\u0308llendorff",
+            "PublicationDate": "1892"
+        }
+    },
     "Entries": [
+        {
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "bithe"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "book",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
         {
             "Unicode": null,
             "PartOfSpeech": "verb",
             "Romanisations": {
-                "Moellendorff": "donjimbi",
-                "West": null,
-                "CMCD": null
+                "Moellendorff": "donjimbi"
             },
             "Interpretations": [
                 {
-                    "English": "to hear",
+                    "Language": "english",
+                    "Text": "to hear",
                     "References": [
-                        {
-                            "Title": "A Manchu Grammar, with Analysed Texts",
-                            "Author": "P. G. Von Mo\u0308llendorff",
-                            "PublicationDate": "1892"
-                        }
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "manju"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "Manchu; the Manchu language",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "sembi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to say",
+                    "References": [
+                        "Moellendorff1892"
                     ]
                 }
             ]
@@ -25,19 +77,30 @@
             "Unicode": null,
             "PartOfSpeech": "pronoun",
             "Romanisations": {
-                "Moellendorff": "si",
-                "West": null,
-                "CMCD": null
+                "Moellendorff": "si"
             },
             "Interpretations": [
                 {
-                    "English": "thou",
+                    "Language": "english",
+                    "Text": "thou",
                     "References": [
-                        {
-                            "Title": "A Manchu Grammar, with Analysed Texts",
-                            "Author": "P. G. Von Mo\u0308llendorff",
-                            "PublicationDate": "1892"
-                        }
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "tacimbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to learn",
+                    "References": [
+                        "Moellendorff1892"
                     ]
                 }
             ]
@@ -46,19 +109,14 @@
             "Unicode": null,
             "PartOfSpeech": null,
             "Romanisations": {
-                "Moellendorff": "te",
-                "West": null,
-                "CMCD": null
+                "Moellendorff": "te"
             },
             "Interpretations": [
                 {
-                    "English": "now",
+                    "Language": "english",
+                    "Text": "now",
                     "References": [
-                        {
-                            "Title": "A Manchu Grammar, with Analysed Texts",
-                            "Author": "P. G. Von Mo\u0308llendorff",
-                            "PublicationDate": "1892"
-                        }
+                        "Moellendorff1892"
                     ]
                 }
             ]

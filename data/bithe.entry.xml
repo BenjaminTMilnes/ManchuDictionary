@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <entry>
     <unicode></unicode>
-    <part-of-speech></part-of-speech>
+    <part-of-speech>noun</part-of-speech>
     <romanisations>
-        <romanisation system="moellendorff">te</romanisation>
+        <romanisation system="moellendorff">bithe</romanisation>
     </romanisations>
     <interpretations>
         <interpretation language="english" references="Moellendorff1892">
-            <text>now</text>
+            <text>book</text>
         </interpretation>
     </interpretations>
 </entry>

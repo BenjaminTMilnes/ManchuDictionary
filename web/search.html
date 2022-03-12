@@ -9,8 +9,16 @@
     </div>
     <div class="search-results">
         <div class="search-results-leftcolumn">
-            <div ng-repeat="entry in currentPageSearchResults">
-                <div>{{entry.Romanisations.Moellendorff}}</div>
+            <div ng-repeat="entry in currentPageSearchResults" class="search-results-entry">
+                <div class="search-results-entry-left">
+                    <div class="entry-manchu">{{convertRomanisation(entry.Romanisations.Moellendorff)}}</div>
+                </div>
+                <div class="search-results-entry-right">
+                    <div class="entry-romanisation">{{entry.Romanisations.Moellendorff}}</div>
+                    <div ng-repeat="interpretation in entry.Interpretations" class="entry-interpretation">
+                 {{$index + 1}}. <span class="entry-partofspeech">[{{getPartOfSpeechAbbreviation(entry.PartOfSpeech)}}]</span> {{interpretation.Text}}</div>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="search-results-rightcolumn">

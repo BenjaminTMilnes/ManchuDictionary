@@ -3,20 +3,11 @@
     <unicode></unicode>
     <part-of-speech>verb</part-of-speech>
     <romanisations>
-        <moellendorff>donjimbi</moellendorff>
-        <west></west>
-        <cmcd></cmcd>
+        <romanisation system="moellendorff">donjimbi</romanisation>
     </romanisations>
     <interpretations>
-        <interpretation>
-            <english>to hear</english>
-            <references>
-                <reference type="book">
-                    <title>A Manchu Grammar, with Analysed Texts</title>
-                    <author>P. G. Von Möllendorff</author>
-                    <publication-date>1892</publication-date>
-                </reference>
-            </references>
+        <interpretation language="english" references="Moellendorff1892">
+            <text>to hear</text>
         </interpretation>
     </interpretations>
 </entry>

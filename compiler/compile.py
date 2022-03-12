@@ -14,6 +14,15 @@ class Compiler (object):
 
         return filePaths
 
+    def getReferenceFilePaths(self):
+        filePaths = []
+
+        for a in os.listdir("../data"):
+            if a.endswith(".reference.xml"):
+                filePaths.append(os.path.join("../data", a))
+
+        return filePaths
+
     def compileEntry(self, filePath):
 
         tree = ET.parse(filePath)
@@ -23,51 +32,69 @@ class Compiler (object):
 
         unicode_string = root.find("./unicode").text
         part_of_speech = root.find("./part-of-speech").text
-        moellendorff = root.find("./romanisations/moellendorff").text
-        west = root.find("./romanisations/west").text
-        cmcd = root.find("./romanisations/cmcd").text
+        romanisations = root.findall("./romanisations/romanisation")
         interpretations = root.findall("./interpretations/interpretation")
 
         entry["Unicode"] = unicode_string
         entry["PartOfSpeech"] = part_of_speech
-        entry["Romanisations"] = {}
-        entry["Romanisations"]["Moellendorff"] = moellendorff
-        entry["Romanisations"]["West"] = west
-        entry["Romanisations"]["CMCD"] = cmcd
-        
+        entry["Romanisations"] = {}       
         entry["Interpretations"] = []
 
+        for r in romanisations:
+            system = r.attrib["system"]
+            text = r.text 
+
+            if system == "moellendorff":
+                entry["Romanisations"]["Moellendorff"] = text 
+
+            if system == "west":
+                entry["Romanisations"]["West"] = text 
+
+            if system == "cmcd":
+                entry["Romanisations"]["CMCD"] = text 
+
+
         for i in interpretations:
-            english = i.find("./english").text
-            references = i.findall("./references/reference")
+            language = i.attrib["language"]
+            text = i.find("./text").text
+            references = [r.strip() for r in i.attrib["references"].split(",")]
 
             interpretation = {}
-            interpretation["English"] = english
-            interpretation["References"] = []
-
-            for r in references:
-                title = r.find("./title").text
-                author = r.find("./author").text
-                publication_date = r.find("./publication-date").text
-
-                reference = {}
-                reference["Title"] = title
-                reference["Author"] = author
-                reference["PublicationDate"] = publication_date
-                    
-                interpretation["References"].append(reference)
-
+            interpretation["Language"] = language 
+            interpretation["Text"] = text
+            interpretation["References"] = references 
+            
             entry["Interpretations"].append(interpretation)
 
-        return entry
+        return entry            
 
+    def compileReference(self, filePath):
+
+        tree = ET.parse(filePath)
+        root = tree.getroot()
+
+        reference = {}
+
+        reference["Reference"] = root.attrib["reference"]
+        reference["Type"] = root.attrib["type"]
+        reference["Title"] =  root.find("./title").text
+        reference["Author"] =  root.find("./author").text
+        reference["PublicationDate"] =  root.find("./publication-date").text
+
+        return reference 
+            
     def compile(self):
 
         entryFilePaths = self.getEntryFilePaths()
         entries = [self.compileEntry(filePath) for filePath in entryFilePaths]
 
+        referenceFilePaths = self.getReferenceFilePaths()
+        references = [self.compileReference(filePath) for filePath in referenceFilePaths]
+        references = {r["Reference"]: r for r in references}
+
         data = {}
 
+        data["References"] = references 
         data["Entries"] = entries
 
         print(data)

@@ -55,6 +55,30 @@
     }
 }
 
+.search-results-entry {
+    min-height:100px;
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.1);
+    padding: 20px 0px;
+    display:flex;
+    flex-direction: row;
+}
+
+.search-results-entry-left {
+    padding: 0px 30px 0px 0px;
+}
+
+.search-results-entry-right {}
+
+.entry-manchu {
+    writing-mode: vertical-lr;
+    font-size: 3em;
+}
+
+.entry-romanisation {
+ font-style: italic;
+ font-size: 2em;
+}
+
 .search-formula, .search-constant {
     margin: 0px 0px 40px 0px;
 }

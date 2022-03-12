@@ -1,0 +1,46 @@
+<div class="entry">
+    <div class="entry-left">
+        <div class="entry-manchu">{{convertRomanisation(entry.Romanisations.Moellendorff)}}</div>
+    </div>
+    <div class="entry-right">
+        <div class="entry-romanisation-moellendorff">{{entry.Romanisations.Moellendorff}}</div>
+        <div class="entry-partofspeech"><span class="tag-{{entry.PartOfSpeech}}">{{entry.PartOfSpeech}}</span></div>
+        <div class="entry-interpretations">
+            <div class="entry-interpretations-interpretation" ng-repeat="interpretation in entry.Interpretations">
+                {{$index + 1}}. {{interpretation.Text}}
+            </div>
+        </div>
+        <div class="entry-inflexions">
+            <h3>Inflexions</h3>
+            <table class="entry-inflexions-table">
+                <tbody>
+                    <tr ng-if="entry.Inflexions['present_tense_interrogative'] != null">
+                        <td class="inflexion-type">Present Tense Interrogative</td>
+                        <td class="inflexion-manchu">{{convertRomanisation(entry.Inflexions['present_tense_interrogative'].Romanisations.Moellendorff)}}</td>
+                        <td class="inflexion-romanisation-moellendorff">{{entry.Inflexions['present_tense_interrogative'].Romanisations.Moellendorff}}</td>
+                    </tr>
+                    <tr ng-if="entry.Inflexions['future_tense'] != null">
+                        <td class="inflexion-type">Future Tense</td>
+                        <td class="inflexion-manchu">{{convertRomanisation(entry.Inflexions['future_tense'].Romanisations.Moellendorff)}}</td>
+                        <td class="inflexion-romanisation-moellendorff">{{entry.Inflexions['future_tense'].Romanisations.Moellendorff}}</td>
+                    </tr>
+                    <tr ng-if="entry.Inflexions['future_tense_negated'] != null">
+                        <td class="inflexion-type">Future Tense Negated</td>
+                        <td class="inflexion-manchu">{{convertRomanisation(entry.Inflexions['future_tense_negated'].Romanisations.Moellendorff)}}</td>
+                        <td class="inflexion-romanisation-moellendorff">{{entry.Inflexions['future_tense_negated'].Romanisations.Moellendorff}}</td>
+                    </tr>
+                    <tr ng-if="entry.Inflexions['preterite'] != null">
+                        <td class="inflexion-type">Preterite</td>
+                        <td class="inflexion-manchu">{{convertRomanisation(entry.Inflexions['preterite'].Romanisations.Moellendorff)}}</td>
+                        <td class="inflexion-romanisation-moellendorff">{{entry.Inflexions['preterite'].Romanisations.Moellendorff}}</td>
+                    </tr>
+                    <tr ng-if="entry.Inflexions['conditional_tense'] != null">
+                        <td class="inflexion-type">Conditional</td>
+                        <td class="inflexion-manchu">{{convertRomanisation(entry.Inflexions['conditional_tense'].Romanisations.Moellendorff)}}</td>
+                        <td class="inflexion-romanisation-moellendorff">{{entry.Inflexions['conditional_tense'].Romanisations.Moellendorff}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

@@ -9,6 +9,7 @@ var application = angular.module("ManchuDictionary", ["ngRoute", "ngSanitize"]);
 application.config(function ($routeProvider) {
     $routeProvider
         .when("/", { templateUrl: "search.html", controller: "SearchController" })
+        .when("/entry/:entryURLReference", { templateUrl: "entry.html", controller: "EntryController" })
         .when("/write", { templateUrl: "write.html", controller: "WriteController" });
 });
 

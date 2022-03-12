@@ -1,0 +1,59 @@
+
+.entry {
+    display: flex;
+    flex-direction:row;
+    margin: 50px 0px;
+}
+
+.entry-manchu {
+    font-size: 7em;
+    writing-mode: vertical-lr;
+    margin: 0px 20px 0px 0px;
+}
+
+.entry-romanisation-moellendorff {
+    font-style: italic;
+    font-size: 3em;
+}
+
+.entry-partofspeech{
+    margin: 2em 0em;
+}
+
+.entry-interpretations-interpretation {
+    font-size: 1.5em;
+}
+
+.entry-inflexions {
+    margin: 3em 0em;
+}
+
+.entry-inflexions-table {
+    border-collapse:collapse;
+    cursor: default;
+}
+
+.entry-inflexions-table tr {
+}
+
+.entry-inflexions-table tr:hover {
+    background-color: hsla(0, 0%, 0%, 0.05);
+}
+
+.entry-inflexions-table tr td {
+    border: 1px solid hsla(0, 0%, 0%, 0.1);
+    padding: 0.5em 1em;
+}
+
+.inflexion-type {
+    font-weight: normal;
+}
+
+.inflexion-manchu {
+    writing-mode: vertical-lr;
+    font-size: 2em;
+}
+
+.inflexion-romanisation-moellendorff {
+    font-style: italic;
+}

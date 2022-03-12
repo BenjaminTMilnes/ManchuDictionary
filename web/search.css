@@ -61,6 +61,11 @@
     padding: 20px 0px;
     display:flex;
     flex-direction: row;
+    cursor: pointer;
+}
+
+.search-results-entry:hover {   
+    color: #105ecc;
 }
 
 .search-results-entry-left {
@@ -69,21 +74,21 @@
 
 .search-results-entry-right {}
 
-.entry-manchu {
+.search-results-entry-manchu {
     writing-mode: vertical-lr;
     font-size: 3em;
 }
 
-.entry-romanisation {
+.search-results-entry-romanisation {
  font-style: italic;
  font-size: 2em;
 }
 
-.entry-interpretation {
+.search-results-entry-interpretation {
     font-size: 1.25em;
 }
 
-.entry-partofspeech{
+.search-results-entry-partofspeech{
     margin: 1em 0em;
 }
 

@@ -10,6 +10,7 @@
     },
     "Entries": [
         {
+            "URLReference": "adali",
             "Unicode": null,
             "PartOfSpeech": null,
             "Romanisations": {
@@ -27,6 +28,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "ai",
             "Unicode": null,
             "PartOfSpeech": null,
             "Romanisations": {
@@ -44,6 +46,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "aikabade",
             "Unicode": null,
             "PartOfSpeech": null,
             "Romanisations": {
@@ -61,6 +64,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "aniya",
             "Unicode": null,
             "PartOfSpeech": "noun",
             "Romanisations": {
@@ -78,6 +82,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "ba",
             "Unicode": null,
             "PartOfSpeech": "noun",
             "Romanisations": {
@@ -95,6 +100,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "bahanambi",
             "Unicode": null,
             "PartOfSpeech": "verb",
             "Romanisations": {
@@ -119,6 +125,7 @@
             }
         },
         {
+            "URLReference": "baita",
             "Unicode": null,
             "PartOfSpeech": "noun",
             "Romanisations": {
@@ -136,6 +143,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "bi",
             "Unicode": null,
             "PartOfSpeech": "pronoun",
             "Romanisations": {
@@ -153,6 +161,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "bithe",
             "Unicode": null,
             "PartOfSpeech": "noun",
             "Romanisations": {
@@ -170,6 +179,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "da",
             "Unicode": null,
             "PartOfSpeech": "noun",
             "Romanisations": {
@@ -187,6 +197,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "donjimbi",
             "Unicode": null,
             "PartOfSpeech": "verb",
             "Romanisations": {
@@ -211,6 +222,7 @@
             }
         },
         {
+            "URLReference": "dube",
             "Unicode": null,
             "PartOfSpeech": "noun",
             "Romanisations": {
@@ -228,6 +240,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "funcembi",
             "Unicode": null,
             "PartOfSpeech": "verb",
             "Romanisations": {
@@ -252,6 +265,25 @@
             }
         },
         {
+            "URLReference": "gemu",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "gemu"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "both; alike",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {}
+        },
+        {
+            "URLReference": "gisun",
             "Unicode": null,
             "PartOfSpeech": "noun",
             "Romanisations": {
@@ -269,6 +301,32 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "huularakuu",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "huulambi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to read; to study",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "future_negated": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "huularakuu"
+                    }
+                }
+            }
+        },
+        {
+            "URLReference": "inu",
             "Unicode": null,
             "PartOfSpeech": null,
             "Romanisations": {
@@ -286,6 +344,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "jai",
             "Unicode": null,
             "PartOfSpeech": null,
             "Romanisations": {
@@ -303,6 +362,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "juwan",
             "Unicode": null,
             "PartOfSpeech": "number",
             "Romanisations": {
@@ -320,6 +380,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "manju",
             "Unicode": null,
             "PartOfSpeech": "noun",
             "Romanisations": {
@@ -337,6 +398,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "meni",
             "Unicode": null,
             "PartOfSpeech": null,
             "Romanisations": {
@@ -354,6 +416,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "nikan",
             "Unicode": null,
             "PartOfSpeech": null,
             "Romanisations": {
@@ -384,6 +447,7 @@
             }
         },
         {
+            "URLReference": "ombi",
             "Unicode": null,
             "PartOfSpeech": "verb",
             "Romanisations": {
@@ -405,7 +469,7 @@
                         "Moellendorff": "ombio"
                     }
                 },
-                "conditional": {
+                "conditional_tense": {
                     "Unicode": "",
                     "Romanisations": {
                         "Moellendorff": "oci"
@@ -414,6 +478,7 @@
             }
         },
         {
+            "URLReference": "oyonggo",
             "Unicode": null,
             "PartOfSpeech": "adjective",
             "Romanisations": {
@@ -431,6 +496,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "sain",
             "Unicode": null,
             "PartOfSpeech": "adjective",
             "Romanisations": {
@@ -448,6 +514,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "sembi",
             "Unicode": null,
             "PartOfSpeech": "verb",
             "Romanisations": {
@@ -472,6 +539,7 @@
             }
         },
         {
+            "URLReference": "si",
             "Unicode": null,
             "PartOfSpeech": "pronoun",
             "Romanisations": {
@@ -489,6 +557,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "tacimbi",
             "Unicode": null,
             "PartOfSpeech": "verb",
             "Romanisations": {
@@ -513,6 +582,7 @@
             }
         },
         {
+            "URLReference": "te",
             "Unicode": null,
             "PartOfSpeech": null,
             "Romanisations": {
@@ -530,6 +600,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "tetele",
             "Unicode": null,
             "PartOfSpeech": null,
             "Romanisations": {
@@ -547,6 +618,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "tucimbi",
             "Unicode": null,
             "PartOfSpeech": "verb",
             "Romanisations": {
@@ -571,6 +643,32 @@
             }
         },
         {
+            "URLReference": "ubaliyam-bumbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "ubaliyam-bumbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to translate",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "future_participle": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "ubaliyambure"
+                    }
+                }
+            }
+        },
+        {
+            "URLReference": "uju",
             "Unicode": null,
             "PartOfSpeech": null,
             "Romanisations": {
@@ -588,6 +686,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "umai",
             "Unicode": null,
             "PartOfSpeech": null,
             "Romanisations": {
@@ -605,6 +704,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "umesi",
             "Unicode": null,
             "PartOfSpeech": "adverb",
             "Romanisations": {
@@ -622,6 +722,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "uthai",
             "Unicode": null,
             "PartOfSpeech": "conjunction",
             "Romanisations": {
@@ -639,6 +740,7 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "waka",
             "Unicode": null,
             "PartOfSpeech": null,
             "Romanisations": {

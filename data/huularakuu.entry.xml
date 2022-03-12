@@ -3,22 +3,17 @@
     <unicode></unicode>
     <part-of-speech>verb</part-of-speech>
     <romanisations>
-        <romanisation system="moellendorff">ombi</romanisation>
+        <romanisation system="moellendorff">huulambi</romanisation>
     </romanisations>
     <interpretations>
         <interpretation language="english" references="Moellendorff1892">
-            <text>to be</text>
+            <text>to read; to study</text>
         </interpretation>
     </interpretations>
     <inflexions>
-        <inflexion type="present_tense_interrogative">
+        <inflexion type="future_negated">
             <romanisations>
-                <romanisation system="moellendorff">ombio</romanisation>
-            </romanisations>
-        </inflexion>
-        <inflexion type="conditional_tense">
-            <romanisations>
-                <romanisation system="moellendorff">oci</romanisation>
+                <romanisation system="moellendorff">huularakuu</romanisation>
             </romanisations>
         </inflexion>
     </inflexions>

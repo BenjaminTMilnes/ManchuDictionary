@@ -27,15 +27,18 @@ class Compiler (object):
 
         tree = ET.parse(filePath)
         root = tree.getroot()
+        fileName = filePath[filePath.rfind("\\") + 1:]
 
         entry = {}
 
+        urlReference = fileName[:fileName.find(".")]
         unicode_string = root.find("./unicode").text
         part_of_speech = root.find("./part-of-speech").text
         romanisations = root.findall("./romanisations/romanisation")
         interpretations = root.findall("./interpretations/interpretation")
         inflexions = root.findall("./inflexions/inflexion")
 
+        entry["URLReference"] = urlReference 
         entry["Unicode"] = unicode_string
         entry["PartOfSpeech"] = part_of_speech
         entry["Romanisations"] = {}       

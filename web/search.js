@@ -36,7 +36,7 @@ application.filter("searchEntries", function () {
     }
 });
 
-application.controller("SearchController", ["$scope", "$rootScope", "$routeParams", "dataService", "$filter", function SearchController($scope, $rootScope, $routeParams, dataService, $filter) {
+application.controller("SearchController", ["$scope", "$rootScope", "$routeParams", "dataService", "$filter", "$location", function SearchController($scope, $rootScope, $routeParams, dataService, $filter, $location) {
 
     //  $scope.getColourOfWord = getColourOfWord;
 
@@ -104,6 +104,10 @@ application.controller("SearchController", ["$scope", "$rootScope", "$routeParam
     $scope.$watch("searchTerms", function (newValue, oldValue) {
         $scope.updateSearchResults(newValue);
     });
+
+    $scope.goToEntry = function(entryURLReference){
+        $location.url("entry/" + entryURLReference);
+    }
 
     $scope.convertRomanisation = function (romanisation) {
         return $scope.converter.getManchu(romanisation);

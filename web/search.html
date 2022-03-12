@@ -21,16 +21,14 @@
     </div>
     <div class="search-results">
         <div class="search-results-leftcolumn">
-            <div ng-repeat="entry in currentPageSearchResults" class="search-results-entry">
+            <div class="search-results-entry" ng-repeat="entry in currentPageSearchResults" ng-click="goToEntry(entry.URLReference)">
                 <div class="search-results-entry-left">
-                    <div class="entry-manchu">{{convertRomanisation(entry.Romanisations.Moellendorff)}}</div>
+                    <div class="search-results-entry-manchu">{{convertRomanisation(entry.Romanisations.Moellendorff)}}</div>
                 </div>
                 <div class="search-results-entry-right">
-                    <div class="entry-romanisation">{{entry.Romanisations.Moellendorff}}</div>
-                    <div class="entry-partofspeech"><span class="tag-{{entry.PartOfSpeech}}">{{entry.PartOfSpeech}}</span></div>                    
-                    <div ng-repeat="interpretation in entry.Interpretations" class="entry-interpretation">
-                 {{$index + 1}}. {{interpretation.Text}}</div>
-                    </div>
+                    <div class="search-results-entry-romanisation">{{entry.Romanisations.Moellendorff}}</div>
+                    <div class="search-results-entry-partofspeech"><span class="tag-{{entry.PartOfSpeech}}">{{entry.PartOfSpeech}}</span></div>                    
+                    <div class="search-results-entry-interpretation" ng-repeat="interpretation in entry.Interpretations">{{$index + 1}}. {{interpretation.Text}}</div>
                 </div>
             </div>
         </div>

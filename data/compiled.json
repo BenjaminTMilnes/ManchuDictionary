@@ -11,6 +11,86 @@
     "Entries": [
         {
             "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "adali"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "alike; similar to",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "ai"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "what",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "aikabade"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "if",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "aniya"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "year",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "ba"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "place",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
             "PartOfSpeech": "noun",
             "Romanisations": {
                 "Moellendorff": "baita"
@@ -27,6 +107,22 @@
         },
         {
             "Unicode": null,
+            "PartOfSpeech": "pronoun",
+            "Romanisations": {
+                "Moellendorff": "bi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "I",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
             "PartOfSpeech": "noun",
             "Romanisations": {
                 "Moellendorff": "bithe"
@@ -35,6 +131,22 @@
                 {
                     "Language": "english",
                     "Text": "book",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "da"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "beginning",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -61,12 +173,92 @@
             "Unicode": null,
             "PartOfSpeech": "noun",
             "Romanisations": {
+                "Moellendorff": "dube"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "point; end; extreme",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "funcembi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to exceed",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
                 "Moellendorff": "gisun"
             },
             "Interpretations": [
                 {
                     "Language": "english",
                     "Text": "word; speech",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "inu"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "yes",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "jai"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "second; further",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": "number",
+            "Romanisations": {
+                "Moellendorff": "juwan"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "ten",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -83,6 +275,54 @@
                 {
                     "Language": "english",
                     "Text": "Manchu; the Manchu language",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "meni"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "every",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "nikan"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "Chinese",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "ombi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to be",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -189,12 +429,60 @@
             "Unicode": null,
             "PartOfSpeech": null,
             "Romanisations": {
+                "Moellendorff": "tetele"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "up until now; up to the present; still",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "tucimbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to appear",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
                 "Moellendorff": "uju"
             },
             "Interpretations": [
                 {
                     "Language": "english",
                     "Text": "first",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "umai"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "not at all",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -211,6 +499,38 @@
                 {
                     "Language": "english",
                     "Text": "very",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": "conjunction",
+            "Romanisations": {
+                "Moellendorff": "uthai"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "therefore; it is as",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "waka"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "not",
                     "References": [
                         "Moellendorff1892"
                     ]

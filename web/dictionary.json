@@ -91,6 +91,22 @@
         },
         {
             "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "bahanambi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to comprehend",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ]
+        },
+        {
+            "Unicode": null,
             "PartOfSpeech": "noun",
             "Romanisations": {
                 "Moellendorff": "baita"
@@ -306,7 +322,7 @@
             "Interpretations": [
                 {
                     "Language": "english",
-                    "Text": "Chinese",
+                    "Text": "a Chinese person",
                     "References": [
                         "Moellendorff1892"
                     ]

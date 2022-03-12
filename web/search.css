@@ -83,6 +83,39 @@
     font-size: 1.25em;
 }
 
+.entry-partofspeech{
+    margin: 1em 0em;
+}
+
+.tag-noun, .tag-pronoun, .tag-verb, .tag-adjective, .tag-adverb {
+    background-color: hsl(0, 0%, 90%);
+    border-radius: 2px;
+    padding: 0.1em 0.5em;
+    color: white;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.tag-noun {
+    background-color: hsl(220, 70%, 60%);
+}
+
+.tag-pronoun {
+    background-color: hsl(200, 70%, 60%);
+}
+
+.tag-verb {
+    background-color: hsl(330, 70%, 60%);
+}
+
+.tag-adjective {
+    background-color: hsl(110, 70%, 50%);
+}
+
+.tag-adverb {
+    background-color: hsl(140, 70%, 50%);
+}
+
 .search-results-pagenumbers {
     display: flex;
     flex-direction: row;

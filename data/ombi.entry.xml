@@ -10,4 +10,16 @@
             <text>to be</text>
         </interpretation>
     </interpretations>
+    <inflexions>
+        <inflexion type="present_tense_interrogative">
+            <romanisations>
+                <romanisation system="moellendorff">ombio</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="conditional">
+            <romanisations>
+                <romanisation system="moellendorff">oci</romanisation>
+            </romanisations>
+        </inflexion>
+    </inflexions>
 </entry>

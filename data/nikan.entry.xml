@@ -7,7 +7,24 @@
     </romanisations>
     <interpretations>
         <interpretation language="english" references="Moellendorff1892">
-            <text>Chinese</text>
+            <text>a Chinese person</text>
         </interpretation>
     </interpretations>
+    <inflexions>
+        <inflexion type="plural">
+            <romanisations>
+                <romanisation system="moellendorff">nikasa</romanisation>
+            </romanisations>
+            <interpretations>
+                <interpretation language="english" references="Moellendorff1892">
+                    <text>Chinese persons; Chinese people</text>
+                </interpretation>
+            </interpretations>
+        </inflexion>
+        <inflexion type="plural_genitive">
+            <romanisations>
+                <romanisation system="moellendorff">nikasai</romanisation>
+            </romanisations>
+        </inflexion>
+    </inflexions>
 </entry>

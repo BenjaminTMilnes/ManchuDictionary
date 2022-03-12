@@ -112,21 +112,4 @@ application.controller("SearchController", ["$scope", "$rootScope", "$routeParam
         return $scope.converter.getManchu(romanisation);
     }
 
-    $scope.getPartOfSpeechAbbreviation = function(partOfSpeech){
-        if (partOfSpeech == "verb"){
-            return "v.";
-        }
-        else if (partOfSpeech == "noun"){
-            return "n.";
-        }
-        else if (partOfSpeech == "pronoun"){
-            return "pro.";
-        }
-        else if (partOfSpeech == "adjective"){
-            return "adj.";
-        }
-
-        return "";
-    }
-
 }]);

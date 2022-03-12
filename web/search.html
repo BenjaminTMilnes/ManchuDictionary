@@ -3,7 +3,7 @@
 <p>Typing Manchu text can be difficult. Try using <a href="#/write">this tool</a>, which will take romanised Manchu, and output Manchu script.</p>
 <div class="search">
     <div class="search-textbox">
-        <input type="text" ng-model="searchTerms" placeholder="" />
+        <input type="text" ng-model="searchTerms" placeholder="Search for a word or phrase." />
     </div>
     <div class="search-results-pagenumbers">
         <div class="pagenumber pagenumber-unselected" ng-click="setPageNumber(pageNumber - 1)">&larr;</div>
@@ -18,8 +18,9 @@
                 </div>
                 <div class="search-results-entry-right">
                     <div class="entry-romanisation">{{entry.Romanisations.Moellendorff}}</div>
+                    <div class="entry-partofspeech"><span class="tag-{{entry.PartOfSpeech}}">{{entry.PartOfSpeech}}</span></div>                    
                     <div ng-repeat="interpretation in entry.Interpretations" class="entry-interpretation">
-                 {{$index + 1}}. <span class="entry-partofspeech">[{{getPartOfSpeechAbbreviation(entry.PartOfSpeech)}}]</span> {{interpretation.Text}}</div>
+                 {{$index + 1}}. {{interpretation.Text}}</div>
                     </div>
                 </div>
             </div>

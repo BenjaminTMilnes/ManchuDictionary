@@ -52,10 +52,6 @@ class RomanisationConverter {
             marker.p += 1;
             return String.fromCharCode(0x1823);
         }
-        if (text.substr(marker.p, 1) == "u") {
-            marker.p += 1;
-            return String.fromCharCode(0x1860);
-        }
         if (text.substr(marker.p, 2) == "uu") {
             marker.p += 2;
             return String.fromCharCode(0x1861);
@@ -63,6 +59,10 @@ class RomanisationConverter {
         if (text.substr(marker.p, 1) == "v") {
             marker.p += 1;
             return String.fromCharCode(0x1861);
+        }
+        if (text.substr(marker.p, 1) == "u") {
+            marker.p += 1;
+            return String.fromCharCode(0x1860);
         }
         if (text.substr(marker.p, 1) == "y") {
             marker.p += 1;

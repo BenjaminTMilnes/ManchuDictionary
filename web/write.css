@@ -18,14 +18,14 @@
     font-weight: inherit;
     font-size: 1.5em;
     padding: 15px;
-    border: 1px solid rgb(0, 0, 0, 0.2);
-    border-radius: 1px;
+    border: 1px solid var(--border-grey);
+    border-radius: var(--border-radius);
     outline: none;
     min-height: 300px;
 }
 
 .romanisationinput:focus {
-    border: 1px solid #105ecc;
+    border: 1px solid var(--physics-blue);
 }
 
 .manchuoutput {

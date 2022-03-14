@@ -1,3 +1,9 @@
+:root {
+    --physics-blue: #105ecc;
+    --border-radius: 2px;
+    --border-grey: #D0D0D0;
+}
+
 body {
     margin: 0px;
     font-family: "Open Sans", sans-serif;
@@ -54,7 +60,7 @@ p {
 hr {
     border: 0;
     height: 1px;
-    background-color: #D0D0D0;
+    background-color: var(--border-grey);
     margin: 20px 0px;
 }
 
@@ -91,7 +97,7 @@ p strong {
 }
 
 a {
-    color: #105ecc;
+    color: var(--physics-blue);
     text-decoration: none;
 }
 
@@ -103,10 +109,10 @@ a:hover {
     font-size: 17px;
     padding: 7px 17px;
     margin: 2px 2px 2px 0px;
-    border-radius: 2px;
+    border-radius: var(--border-radius);
     color: #ffffff;
     font-weight: normal;
-    background-color: #105ecc;
+    background-color: var(--physics-blue);
     border: none;
     cursor: pointer;
 }

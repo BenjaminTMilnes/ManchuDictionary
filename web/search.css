@@ -1,29 +1,25 @@
-
-.search {
-    margin: 0px 0px 200px 0px;
-}
+.search {}
 
 .search-textbox {
     margin-bottom: 10px;
 }
 
-    .search-textbox input {
-        width: 100%;
-        box-sizing: border-box;
-        padding: 9px 14px;
-        font-size: 14px;
-        border: 1px solid #D0D0D0;
-        border-radius: 2px;
-        outline: none;
-    }
+.search-textbox input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 9px 14px;
+    font-size: 14px;
+    border: 1px solid #D0D0D0;
+    border-radius: 2px;
+    outline: none;
+}
 
-        .search-textbox input:focus {
-            border: 1px solid #105ecc;
-            outline: none;
-        }
+.search-textbox input:focus {
+    border: 1px solid #105ecc;
+    outline: none;
+}
 
 @media (min-width:400px) {
-
     .search-textbox input {
         padding: 10px 17px;
         font-size: 17px;
@@ -41,6 +37,7 @@
     .search-results {
         display: flex;
         flex-direction: row;
+        padding-bottom: 40px;
     }
 
     .search-results-leftcolumn {
@@ -56,20 +53,20 @@
 }
 
 .search-results-entry {
-    min-height:100px;
+    min-height: 100px;
     border-bottom: 1px solid hsla(0, 0%, 0%, 0.1);
     padding: 20px 0px;
-    display:flex;
+    display: flex;
     flex-direction: row;
     cursor: pointer;
 }
 
-.search-results-entry:hover {   
+.search-results-entry:hover {
     color: #105ecc;
 }
 
 .search-results-entry-left {
-    padding: 0px 30px 0px 0px;
+    padding: 0px 20px 0px 20px;
 }
 
 .search-results-entry-right {}
@@ -80,15 +77,15 @@
 }
 
 .search-results-entry-romanisation {
- font-style: italic;
- font-size: 2em;
+    font-style: italic;
+    font-size: 2em;
 }
 
 .search-results-entry-interpretation {
     font-size: 1.25em;
 }
 
-.search-results-entry-partofspeech{
+.search-results-entry-partofspeech {
     margin: 1em 0em;
 }
 
@@ -142,10 +139,10 @@
     cursor: pointer;
 }
 
-    .pagenumber-unselected:hover {
-        background-color: #f4f4f4;
-        color: #105ecc;
-    }
+.pagenumber-unselected:hover {
+    background-color: #f4f4f4;
+    color: #105ecc;
+}
 
 .pagenumber-selected {
     background-color: #f0f0f0;

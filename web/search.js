@@ -38,8 +38,6 @@ application.filter("searchEntries", function () {
 
 application.controller("SearchController", ["$scope", "$rootScope", "$routeParams", "dataService", "$filter", "$location", function SearchController($scope, $rootScope, $routeParams, dataService, $filter, $location) {
 
-    //  $scope.getColourOfWord = getColourOfWord;
-
     $scope.pageNumber = 1;
     $scope.numberOfItemsPerPage = 10;
     $scope.numberOfPages = 1;
@@ -105,7 +103,7 @@ application.controller("SearchController", ["$scope", "$rootScope", "$routeParam
         $scope.updateSearchResults(newValue);
     });
 
-    $scope.goToEntry = function(entryURLReference){
+    $scope.goToEntry = function (entryURLReference) {
         $location.url("entry/" + entryURLReference);
     }
 

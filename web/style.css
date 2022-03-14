@@ -64,14 +64,17 @@ hr {
         margin: 0px 0px 22px 0px;
         text-align: left;
     }
+
     h2 {
         font-size: 27px;
     }
+
     p {
         font-size: 17px;
         margin: 22px 0px;
         text-align: justify;
     }
+
     hr {
         margin: 40px 0px;
     }

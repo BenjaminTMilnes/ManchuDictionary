@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<entry>
+    <unicode></unicode>
+    <part-of-speech>verb</part-of-speech>
+    <romanisations>
+        <romanisation system="moellendorff">arambi</romanisation>
+    </romanisations>
+    <interpretations>
+        <interpretation language="english" references="Moellendorff1892">
+            <text>to write</text>
+        </interpretation>
+    </interpretations>
+    <inflexions>
+        <inflexion type="imperative">
+            <romanisations>
+                <romanisation system="moellendorff">ara</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="present_tense">
+            <romanisations>
+                <romanisation system="moellendorff">arambi</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="infinitive">
+            <romanisations>
+                <romanisation system="moellendorff">arame</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="preterite">
+            <romanisations>
+                <romanisation system="moellendorff">araha</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="future_tense">
+            <romanisations>
+                <romanisation system="moellendorff">arara</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="conditional">
+            <romanisations>
+                <romanisation system="moellendorff">araci</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="subjunctive_present">
+            <romanisations>
+                <romanisation system="moellendorff">araki</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="past_gerund">
+            <romanisations>
+                <romanisation system="moellendorff">arafi</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="imperfect">
+            <romanisations>
+                <romanisation system="moellendorff">arambihe</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="indefinite_past">
+            <romanisations>
+                <romanisation system="moellendorff">arahabi</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="pluperfect">
+            <romanisations>
+                <romanisation system="moellendorff">arahabihe</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="past_conditional">
+            <romanisations>
+                <romanisation system="moellendorff">arahabici</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="adversative">
+            <romanisations>
+                <romanisation system="moellendorff">aracibe</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="concessive">
+            <romanisations>
+                <romanisation system="moellendorff">aracina</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="optative">
+            <romanisations>
+                <romanisation system="moellendorff">arakini</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="gerund_i">
+            <romanisations>
+                <romanisation system="moellendorff">arambime</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="gerund_ii">
+            <romanisations>
+                <romanisation system="moellendorff">arambifi</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="gerund_iii">
+            <romanisations>
+                <romanisation system="moellendorff">aranggala</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="passive">
+            <romanisations>
+                <romanisation system="moellendorff">arambumbi</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="caustative">
+            <romanisations>
+                <romanisation system="moellendorff">arambubumbi</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="verbal_noun">
+            <romanisations>
+                <romanisation system="moellendorff">arahangge</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="agent_noun">
+            <romanisations>
+                <romanisation system="moellendorff">ararangge</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="indefinite">
+            <romanisations>
+                <romanisation system="moellendorff">arahale, ararale</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="adverbial">
+            <romanisations>
+                <romanisation system="moellendorff">araralame</romanisation>
+            </romanisations>
+        </inflexion>
+    </inflexions>
+</entry>

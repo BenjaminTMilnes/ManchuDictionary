@@ -136,6 +136,169 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "arambi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "arambi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to write",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "imperative": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "ara"
+                    }
+                },
+                "present_tense": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "arambi"
+                    }
+                },
+                "infinitive": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "arame"
+                    }
+                },
+                "preterite": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "araha"
+                    }
+                },
+                "future_tense": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "arara"
+                    }
+                },
+                "conditional": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "araci"
+                    }
+                },
+                "subjunctive_present": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "araki"
+                    }
+                },
+                "past_gerund": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "arafi"
+                    }
+                },
+                "imperfect": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "arambihe"
+                    }
+                },
+                "indefinite_past": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "arahabi"
+                    }
+                },
+                "pluperfect": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "arahabihe"
+                    }
+                },
+                "past_conditional": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "arahabici"
+                    }
+                },
+                "adversative": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "aracibe"
+                    }
+                },
+                "concessive": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "aracina"
+                    }
+                },
+                "optative": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "arakini"
+                    }
+                },
+                "gerund_i": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "arambime"
+                    }
+                },
+                "gerund_ii": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "arambifi"
+                    }
+                },
+                "gerund_iii": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "aranggala"
+                    }
+                },
+                "passive": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "arambumbi"
+                    }
+                },
+                "caustative": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "arambubumbi"
+                    }
+                },
+                "verbal_noun": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "arahangge"
+                    }
+                },
+                "agent_noun": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "ararangge"
+                    }
+                },
+                "indefinite": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "arahale, ararale"
+                    }
+                },
+                "adverbial": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "araralame"
+                    }
+                }
+            }
+        },
+        {
             "URLReference": "ba",
             "Unicode": null,
             "PartOfSpeech": "noun",

@@ -16,6 +16,10 @@ class RomanisationConverter {
     constructor() { }
 
     getManchu(text) {
+        if (stringIsNullOrEmpty(text)) {
+            return "";
+        }
+
         var marker = new Marker();
         var manchu = "";
 
@@ -68,7 +72,7 @@ class RomanisationConverter {
             marker.p += 1;
             return String.fromCharCode(0x185f);
         }
-        
+
         if (text.substr(marker.p, 2) == "ng") {
             marker.p += 2;
             return String.fromCharCode(0x1829);

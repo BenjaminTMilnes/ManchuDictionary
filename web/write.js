@@ -39,6 +39,10 @@ class RomanisationConverter {
             marker.p += 1;
             return " ";
         }
+        if (text.substr(marker.p, 1) == "-") {
+            marker.p += 1;
+            return "";
+        }
 
         if (text.substr(marker.p, 1) == "a") {
             marker.p += 1;
@@ -67,10 +71,6 @@ class RomanisationConverter {
         if (text.substr(marker.p, 1) == "u") {
             marker.p += 1;
             return String.fromCharCode(0x1860);
-        }
-        if (text.substr(marker.p, 1) == "y") {
-            marker.p += 1;
-            return String.fromCharCode(0x185f);
         }
 
         if (text.substr(marker.p, 2) == "ng") {
@@ -132,6 +132,10 @@ class RomanisationConverter {
         if (text.substr(marker.p, 1) == "j") {
             marker.p += 1;
             return String.fromCharCode(0x1835);
+        }
+        if (text.substr(marker.p, 1) == "y") {
+            marker.p += 1;
+            return String.fromCharCode(0x1836);
         }
         if (text.substr(marker.p, 1) == "r") {
             marker.p += 1;

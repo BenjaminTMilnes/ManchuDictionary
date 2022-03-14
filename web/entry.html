@@ -22,5 +22,11 @@
                 </tbody>
             </table>
         </div>
+        <div class="entry-references" ng-show="references.length > 0">
+            <h3>References</h3>
+            <ol>
+                <li ng-repeat="reference in references"><span class="reference-title">{{reference.Title}}</span>, <span class="reference-author">{{reference.Author}}</span> (<span class="reference-dateofpublication">{{reference.PublicationDate}}</span>)</li>
+            </ol>
+        </div>
     </div>
 </div>

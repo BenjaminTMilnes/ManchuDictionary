@@ -68,9 +68,9 @@ application.controller("EntryController", ["$scope", "$rootScope", "$routeParams
     ];
 
     $scope.inflexions = [];
+    $scope.references = [];
 
     dataService.getData().then(function (data) {
-        $scope.references = data.References;
         $scope.entries = data.Entries;
         $scope.entry = $scope.entries.filter(entry => entry.URLReference == $routeParams["entryURLReference"])[0];
 
@@ -85,6 +85,16 @@ application.controller("EntryController", ["$scope", "$rootScope", "$routeParams
 
                 $scope.inflexions.push(inflexion);
             }
+        });
+
+        var rr = [];
+
+        $scope.entry.Interpretations.forEach(i => {
+            rr = rr.concat(rr, i.References);
+        });
+
+        rr.forEach(r => {
+            $scope.references.push(data.References[r]);
         });
     });
 

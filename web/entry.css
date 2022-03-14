@@ -55,3 +55,11 @@
 .inflexion-romanisation-moellendorff {
     font-style: italic;
 }
+
+.reference-title {
+    font-style: italic;
+}
+
+.reference-dateofpublication {
+    font-weight: normal;
+}

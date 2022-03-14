@@ -10,4 +10,11 @@
             <text>I</text>
         </interpretation>
     </interpretations>
+    <inflexions>
+        <inflexion type="genitive">
+            <romanisations>
+                <romanisation system="moellendorff">mini</romanisation>
+            </romanisations>
+        </inflexion>
+    </inflexions>
 </entry>

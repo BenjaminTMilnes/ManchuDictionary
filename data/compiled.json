@@ -100,6 +100,24 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "angga",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "angga"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "mouth",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {}
+        },
+        {
             "URLReference": "aniya",
             "Unicode": null,
             "PartOfSpeech": "noun",
@@ -161,6 +179,24 @@
             }
         },
         {
+            "URLReference": "baibi",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "baibi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "only",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {}
+        },
+        {
             "URLReference": "baimbi",
             "Unicode": null,
             "PartOfSpeech": "verb",
@@ -219,7 +255,39 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {
+                "genitive": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "mini"
+                    }
+                }
+            }
+        },
+        {
+            "URLReference": "bimbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "bimbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to be",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "conditional": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "bici"
+                    }
+                }
+            }
         },
         {
             "URLReference": "bithe",
@@ -250,6 +318,24 @@
                 {
                     "Language": "english",
                     "Text": "beginning",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {}
+        },
+        {
+            "URLReference": "damu",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "damu"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "but",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -293,6 +379,24 @@
                 {
                     "Language": "english",
                     "Text": "point; end; extreme",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {}
+        },
+        {
+            "URLReference": "ede",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "ede"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "so; then",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -396,6 +500,31 @@
                 }
             ],
             "Inflexions": {}
+        },
+        {
+            "URLReference": "gisurembi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "gisurembi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to speak",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "imperative": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "gisure"
+                    }
+                }
+            }
         },
         {
             "URLReference": "huularakuu",
@@ -513,6 +642,49 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "juwanbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "juwanbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to open",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "future_participle": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "juwara"
+                    }
+                }
+            }
+        },
+        {
+            "URLReference": "mangga",
+            "Unicode": null,
+            "PartOfSpeech": "adjective",
+            "Romanisations": {
+                "Moellendorff": "mangga"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "difficult",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {}
+        },
+        {
             "URLReference": "manju",
             "Unicode": null,
             "PartOfSpeech": "noun",
@@ -531,6 +703,31 @@
             "Inflexions": {}
         },
         {
+            "URLReference": "marimbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "marimbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to turn the head away; to back out",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "interrogative": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "marimbio"
+                    }
+                }
+            }
+        },
+        {
             "URLReference": "meni",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -547,6 +744,31 @@
                 }
             ],
             "Inflexions": {}
+        },
+        {
+            "URLReference": "mutembi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "mutembi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to be able to do",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "future_participle": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "mutere"
+                    }
+                }
+            }
         },
         {
             "URLReference": "nikan",
@@ -736,7 +958,14 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {
+                "dative": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "sinde"
+                    }
+                }
+            }
         },
         {
             "URLReference": "tacimbi",

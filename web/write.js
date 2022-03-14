@@ -20,7 +20,7 @@ class RomanisationConverter {
         var manchu = "";
 
         while (marker.p < text.length) {
-            manchu += this.getLetterAt(text, marker);
+            manchu += this.getLetterAt(text.toLowerCase(), marker);
         }
 
         return manchu;
@@ -140,6 +140,14 @@ class RomanisationConverter {
         if (text.substr(marker.p, 1) == "w") {
             marker.p += 1;
             return String.fromCharCode(0x1838);
+        }
+        if (text.substr(marker.p, 1) == ",") {
+            marker.p += 1;
+            return String.fromCharCode(0x1808);
+        }
+        if (text.substr(marker.p, 1) == ".") {
+            marker.p += 1;
+            return String.fromCharCode(0x1809);
         }
 
         marker.p += 1;

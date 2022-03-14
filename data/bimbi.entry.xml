@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <entry>
     <unicode></unicode>
-    <part-of-speech>pronoun</part-of-speech>
+    <part-of-speech>verb</part-of-speech>
     <romanisations>
-        <romanisation system="moellendorff">si</romanisation>
+        <romanisation system="moellendorff">bimbi</romanisation>
     </romanisations>
     <interpretations>
         <interpretation language="english" references="Moellendorff1892">
-            <text>thou</text>
+            <text>to be</text>
         </interpretation>
     </interpretations>
     <inflexions>
-        <inflexion type="dative">
+        <inflexion type="conditional">
             <romanisations>
-                <romanisation system="moellendorff">sinde</romanisation>
+                <romanisation system="moellendorff">bici</romanisation>
             </romanisations>
         </inflexion>
     </inflexions>

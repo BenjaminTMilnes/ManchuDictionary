@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<entry>
+    <unicode></unicode>
+    <part-of-speech>adjective</part-of-speech>
+    <romanisations>
+        <romanisation system="moellendorff">mangga</romanisation>
+    </romanisations>
+    <interpretations>
+        <interpretation language="english" references="Moellendorff1892">
+            <text>difficult</text>
+        </interpretation>
+    </interpretations>
+</entry>

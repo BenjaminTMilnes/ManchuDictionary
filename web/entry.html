@@ -54,6 +54,16 @@
                         <td class="inflexion-manchu">{{convertRomanisation(entry.Inflexions['past_gerund'].Romanisations.Moellendorff)}}</td>
                         <td class="inflexion-romanisation-moellendorff">{{entry.Inflexions['past_gerund'].Romanisations.Moellendorff}}</td>
                     </tr>
+                    <tr ng-if="entry.Inflexions['dative'] != null">
+                        <td class="inflexion-type">Dative</td>
+                        <td class="inflexion-manchu">{{convertRomanisation(entry.Inflexions['dative'].Romanisations.Moellendorff)}}</td>
+                        <td class="inflexion-romanisation-moellendorff">{{entry.Inflexions['dative'].Romanisations.Moellendorff}}</td>
+                    </tr>
+                    <tr ng-if="entry.Inflexions['genitive'] != null">
+                        <td class="inflexion-type">Genitive</td>
+                        <td class="inflexion-manchu">{{convertRomanisation(entry.Inflexions['genitive'].Romanisations.Moellendorff)}}</td>
+                        <td class="inflexion-romanisation-moellendorff">{{entry.Inflexions['genitive'].Romanisations.Moellendorff}}</td>
+                    </tr>
                 </tbody>
             </table>
         </div>

@@ -1,4 +1,8 @@
 
+function stringContains(string1, string2) {
+    return (string1.indexOf(string2) >= 0);
+}
+
 function stringIsNullOrEmpty(string) {
     return (!string || /^\s*$/.test(string));
 }

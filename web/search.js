@@ -31,7 +31,15 @@ application.filter("searchEntries", function () {
             return entries;
         }
         else {
-            return entries;
+            var matchingEntries = [];
+
+            entries.forEach(entry => {
+                if (stringContains(entry.Romanisations.Moellendorff, text) || stringContains(entry.Interpretations[0].Text, text)){
+                    matchingEntries.push(entry);
+                }
+            });
+
+            return matchingEntries;
         }
     }
 });

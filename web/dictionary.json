@@ -690,6 +690,31 @@
             }
         },
         {
+            "URLReference": "gosimbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "gosimbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to be kind to",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "conditional": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "gosici"
+                    }
+                }
+            }
+        },
+        {
             "URLReference": "huularakuu",
             "Unicode": null,
             "PartOfSpeech": "verb",
@@ -1104,6 +1129,24 @@
                     }
                 }
             }
+        },
+        {
+            "URLReference": "shadambi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "\u0161adambi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to be tired; to become tired",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {}
         },
         {
             "URLReference": "si",

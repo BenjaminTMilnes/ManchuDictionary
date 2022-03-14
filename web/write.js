@@ -105,6 +105,10 @@ class RomanisationConverter {
             marker.p += 2;
             return String.fromCharCode(0x1867);
         }
+        if (text.substr(marker.p, 1) == "š") {
+            marker.p += 1;
+            return String.fromCharCode(0x1867);
+        }
         if (text.substr(marker.p, 1) == "s") {
             marker.p += 1;
             return String.fromCharCode(0x1830);

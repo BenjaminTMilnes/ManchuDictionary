@@ -1,14 +1,13 @@
-
 .entry {
     display: flex;
-    flex-direction:row;
+    flex-direction: row;
     margin: 50px 0px;
 }
 
 .entry-manchu {
     font-size: 7em;
     writing-mode: vertical-lr;
-    margin: 0px 20px 0px 0px;
+    margin: 0px;
 }
 
 .entry-romanisation-moellendorff {
@@ -16,7 +15,7 @@
     font-size: 3em;
 }
 
-.entry-partofspeech{
+.entry-partofspeech {
     margin: 2em 0em;
 }
 
@@ -29,12 +28,11 @@
 }
 
 .entry-inflexions-table {
-    border-collapse:collapse;
+    border-collapse: collapse;
     cursor: default;
 }
 
-.entry-inflexions-table tr {
-}
+.entry-inflexions-table tr {}
 
 .entry-inflexions-table tr:hover {
     background-color: hsla(0, 0%, 0%, 0.05);

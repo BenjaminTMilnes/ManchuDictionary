@@ -1,5 +1,4 @@
 
-
 function stringIsNullOrEmpty(string) {
     return (!string || /^\s*$/.test(string));
 }
@@ -23,15 +22,6 @@ application.directive("compile", ["$compile", function ($compile) {
         });
     };
 }]);
-
-class Database {
-    constructor(data) {
-        this._data = data;
-    }
-    get entries() {
-        return this._data.Entries;
-    }
-}
 
 application.factory("dataService", ["$http", function ($http) {
     var dataService = {

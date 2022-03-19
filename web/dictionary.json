@@ -25,7 +25,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "age",
@@ -43,7 +44,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "ahun",
@@ -61,7 +63,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "ai",
@@ -79,7 +82,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "aikabade",
@@ -97,7 +101,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "angga",
@@ -115,7 +120,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "aniya",
@@ -133,7 +139,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "arambi",
@@ -296,7 +303,8 @@
                         "Moellendorff": "araralame"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "ba",
@@ -314,7 +322,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "bahanambi",
@@ -339,7 +348,8 @@
                         "Moellendorff": "bahanarakuuci"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "baibi",
@@ -357,7 +367,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "baimbi",
@@ -382,7 +393,8 @@
                         "Moellendorff": "baire"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "baita",
@@ -400,7 +412,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "bi",
@@ -425,7 +438,8 @@
                         "Moellendorff": "mini"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "bimbi",
@@ -450,7 +464,8 @@
                         "Moellendorff": "bici"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "bithe",
@@ -468,7 +483,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "da",
@@ -486,7 +502,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "damu",
@@ -504,7 +521,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "donjimbi",
@@ -529,7 +547,24 @@
                         "Moellendorff": "donjici"
                     }
                 }
-            }
+            },
+            "Examples": [
+                {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "donjici si te manju bithe tacimbi sembi"
+                    },
+                    "Interpretations": [
+                        {
+                            "Language": "english",
+                            "Text": "I hear you are studying Manchu?",
+                            "References": [
+                                "Moellendorff1892"
+                            ]
+                        }
+                    ]
+                }
+            ]
         },
         {
             "URLReference": "dube",
@@ -547,7 +582,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "ede",
@@ -565,7 +601,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "emude",
@@ -583,7 +620,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "funcembi",
@@ -608,7 +646,8 @@
                         "Moellendorff": "funceme"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "geli",
@@ -626,7 +665,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "gemu",
@@ -644,7 +684,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "gisun",
@@ -662,7 +703,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "gisurembi",
@@ -687,7 +729,8 @@
                         "Moellendorff": "gisure"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "gosimbi",
@@ -712,7 +755,8 @@
                         "Moellendorff": "gosici"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "huularakuu",
@@ -737,7 +781,8 @@
                         "Moellendorff": "huularakuu"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "inu",
@@ -755,7 +800,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "isinambi",
@@ -773,7 +819,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "jai",
@@ -791,7 +838,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "jaide",
@@ -809,7 +857,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "juwan",
@@ -827,7 +876,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "juwanbi",
@@ -852,7 +902,8 @@
                         "Moellendorff": "juwara"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "mangga",
@@ -870,7 +921,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "manju",
@@ -888,7 +940,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "marimbi",
@@ -913,7 +966,8 @@
                         "Moellendorff": "marimbio"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "meni",
@@ -931,7 +985,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "mutembi",
@@ -956,7 +1011,8 @@
                         "Moellendorff": "mutere"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "nikan",
@@ -987,7 +1043,8 @@
                         "Moellendorff": "nikasai"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "ombi",
@@ -1024,7 +1081,8 @@
                         "Moellendorff": "ofi"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "oyonggo",
@@ -1042,7 +1100,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "sain",
@@ -1060,7 +1119,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "sakda",
@@ -1078,7 +1138,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "sartabumbi",
@@ -1103,7 +1164,8 @@
                         "Moellendorff": "sartabure"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "sembi",
@@ -1128,7 +1190,8 @@
                         "Moellendorff": "serengge"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "shadambi",
@@ -1146,7 +1209,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "si",
@@ -1171,7 +1235,8 @@
                         "Moellendorff": "sinde"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "tacimbi",
@@ -1196,7 +1261,8 @@
                         "Moellendorff": "taciha"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "te",
@@ -1214,7 +1280,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "tetele",
@@ -1232,7 +1299,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "tucimbi",
@@ -1257,7 +1325,8 @@
                         "Moellendorff": "tucirakuu"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "tuwanjimbi",
@@ -1282,7 +1351,8 @@
                         "Moellendorff": "tuwanjiha"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "ubaliyam-bumbi",
@@ -1307,7 +1377,8 @@
                         "Moellendorff": "ubaliyambure"
                     }
                 }
-            }
+            },
+            "Examples": []
         },
         {
             "URLReference": "uju",
@@ -1325,7 +1396,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "umai",
@@ -1343,7 +1415,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "umesi",
@@ -1361,7 +1434,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "uthai",
@@ -1379,7 +1453,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "uttu",
@@ -1397,7 +1472,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         },
         {
             "URLReference": "waka",
@@ -1415,7 +1491,8 @@
                     ]
                 }
             ],
-            "Inflexions": {}
+            "Inflexions": {},
+            "Examples": []
         }
     ]
 }

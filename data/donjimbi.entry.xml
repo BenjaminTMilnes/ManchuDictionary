@@ -17,4 +17,16 @@
             </romanisations>
         </inflexion>
     </inflexions>
+    <examples>
+        <example>
+            <romanisations>
+                <romanisation system="moellendorff">donjici si te manju bithe tacimbi sembi</romanisation>
+            </romanisations>
+            <interpretations>
+                <interpretation language="english" references="Moellendorff1892">
+                    <text>I hear you are studying Manchu?</text>
+                </interpretation>
+            </interpretations>
+        </example>
+    </examples>
 </entry>

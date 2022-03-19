@@ -37,6 +37,7 @@ class Compiler (object):
         romanisations = root.findall("./romanisations/romanisation")
         interpretations = root.findall("./interpretations/interpretation")
         inflexions = root.findall("./inflexions/inflexion")
+        examples = root.findall("./examples/example")
 
         entry["URLReference"] = urlReference 
         entry["Unicode"] = unicode_string
@@ -44,6 +45,7 @@ class Compiler (object):
         entry["Romanisations"] = {}       
         entry["Interpretations"] = []
         entry["Inflexions"] = {}
+        entry["Examples"] = []
 
         for r in romanisations:
             system = r.attrib["system"]
@@ -92,6 +94,42 @@ class Compiler (object):
                     inflexion["Romanisations"]["CMCD"] = text 
 
             entry["Inflexions"][_type] = inflexion
+
+        for e in examples:
+            romanisations = e.findall("./romanisations/romanisation")
+            interpretations = e.findall("./interpretations/interpretation")
+
+            example = {}
+            example["Unicode"] = ""
+            example["Romanisations"] = {}
+            example["Interpretations"] = []
+
+            for r in romanisations:
+                system = r.attrib["system"]
+                text = r.text 
+
+                if system == "moellendorff":
+                    example["Romanisations"]["Moellendorff"] = text 
+
+                if system == "west":
+                    example["Romanisations"]["West"] = text 
+
+                if system == "cmcd":
+                    example["Romanisations"]["CMCD"] = text 
+
+            for i in interpretations:
+                language = i.attrib["language"]
+                text = i.find("./text").text
+                references = [r.strip() for r in i.attrib["references"].split(",")]
+
+                interpretation = {}
+                interpretation["Language"] = language 
+                interpretation["Text"] = text
+                interpretation["References"] = references 
+                
+                example["Interpretations"].append(interpretation)
+
+            entry["Examples"].append(example)
 
         return entry            
 

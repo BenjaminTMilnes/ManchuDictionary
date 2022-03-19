@@ -33,6 +33,10 @@
     border: none;
 }
 
+.search-results {
+    padding-bottom: 20px;
+}
+
 @media (min-width:700px) {
     .search-results {
         display: flex;
@@ -53,40 +57,56 @@
 }
 
 .search-results-entry {
-    min-height: 100px;
     border-bottom: 1px solid var(--border-grey);
     padding: 20px 0px;
     display: flex;
     flex-direction: row;
     cursor: pointer;
+    font-size: 14px;
+}
+
+.search-results-entry:last-child {
+    border-bottom: none;
 }
 
 .search-results-entry:hover {
-    color: #105ecc;
+    color: var(--physics-blue);
 }
 
 .search-results-entry-left {
-    padding: 0px 20px 0px 20px;
+    padding: 0px 7px;
 }
 
 .search-results-entry-right {}
 
 .search-results-entry-manchu {
     writing-mode: vertical-lr;
-    font-size: 3em;
+    font-size: 4em;
 }
 
 .search-results-entry-romanisation {
     font-style: italic;
-    font-size: 2em;
-}
-
-.search-results-entry-interpretation {
-    font-size: 1.25em;
+    font-size: 1.75em;
 }
 
 .search-results-entry-partofspeech {
-    margin: 1em 0em;
+    margin: 0.75em 0em 1.5em 0em;
+}
+
+.search-results-entry-interpretation {
+    font-size: 1.05em;
+    margin: 0.5em 0em 0em 0em;
+}
+
+@media (min-width:400px) {
+    .search-results-entry {
+        min-height: 100px;
+        font-size: 17px;
+    }
+
+    .search-results-entry-left {
+        padding: 0px 20px 0px 20px;
+    }
 }
 
 .tag-noun, .tag-pronoun, .tag-verb, .tag-adjective, .tag-adverb {

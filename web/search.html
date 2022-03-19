@@ -27,7 +27,7 @@
                 </div>
                 <div class="search-results-entry-right">
                     <div class="search-results-entry-romanisation">{{entry.Romanisations.Moellendorff}}</div>
-                    <div class="search-results-entry-partofspeech"><span class="tag-{{entry.PartOfSpeech}}">{{entry.PartOfSpeech}}</span></div>                    
+                    <div class="search-results-entry-partofspeech" ng-if="entry.PartOfSpeech != null"><span class="tag-{{entry.PartOfSpeech}}">{{entry.PartOfSpeech}}</span></div>                    
                     <div class="search-results-entry-interpretation" ng-repeat="interpretation in entry.Interpretations">{{$index + 1}}. {{interpretation.Text}}</div>
                 </div>
             </div>

@@ -1,27 +1,27 @@
 .leftright {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
-.leftinput {
-    flex-basis: 50%;
-}
+.leftinput {}
 
-.rightinput {
-    flex-basis: 50%;
-}
+.rightinput {}
 
-.romanisationinput {
+.romanisationinput, .manchuoutput {
     width: 100%;
     box-sizing: border-box;
     font-family: inherit;
     font-weight: inherit;
-    font-size: 1.5em;
-    padding: 15px;
+    min-height: 200px;
+    max-height: 200px;
+}
+
+.romanisationinput {
+    font-size: 14px;
+    padding: 14px;
     border: 1px solid var(--border-grey);
     border-radius: var(--border-radius);
     outline: none;
-    min-height: 300px;
 }
 
 .romanisationinput:focus {
@@ -29,13 +29,37 @@
 }
 
 .manchuoutput {
-    width: 100%;
-    box-sizing: border-box;
-    font-family: inherit;
-    font-weight: inherit;
-    font-size: 3em;
+    font-size: 27px;
+    padding: 14px;
     writing-mode: vertical-lr;
     direction: ltr;
-    padding: 15px;
-    max-height: 300px;
+}
+
+@media (min-width:700px) {
+    .leftright {
+        flex-direction: row;
+    }
+
+    .leftinput {
+        flex-basis: 50%;
+    }
+
+    .rightinput {
+        flex-basis: 50%;
+    }
+
+    .romanisationinput, .manchuoutput {
+        min-height: 300px;
+        max-height: 300px;
+    }
+
+    .romanisationinput {
+        font-size: 22px;
+        padding: 22px;
+    }
+
+    .manchuoutput {
+        font-size: 44px;
+        padding: 22px;
+    }
 }

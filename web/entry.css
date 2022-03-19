@@ -1,35 +1,40 @@
 .entry {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     margin: 50px 0px;
+    font-size: 14px;
 }
 
 .entry-manchu {
-    font-size: 7em;
+    font-size: 5em;
     writing-mode: vertical-lr;
-    margin: 0px;
+    margin: 0px auto;
 }
 
 .entry-romanisation-moellendorff {
     font-style: italic;
-    font-size: 3em;
+    font-size: 2em;
+    text-align: center;
+    margin: 1em 0em;
 }
 
 .entry-partofspeech {
-    margin: 2em 0em;
+    margin: 1em 0em;
 }
 
 .entry-interpretations-interpretation {
-    font-size: 1.5em;
+    font-size: 1.25em;
 }
 
-.entry-inflexions {
+.entry-inflexions, .entry-references {
     margin: 3em 0em;
 }
 
 .entry-inflexions-table {
     border-collapse: collapse;
     cursor: default;
+    box-sizing: border-box;
+    width: 100%;
 }
 
 .entry-inflexions-table tr {}
@@ -62,4 +67,32 @@
 
 .reference-dateofpublication {
     font-weight: normal;
+}
+
+@media (min-width:400px) {
+    .entry-inflexions-table {
+        width: auto;
+    }
+}
+
+@media (min-width:700px) {
+    .entry {
+        flex-direction: row;
+        font-size: 17px;
+    }
+
+    .entry-manchu {
+        font-size: 7em;
+        margin: 0px;
+    }
+
+    .entry-romanisation-moellendorff {
+        font-size: 3em;
+        text-align: left;
+        margin: 0em 0em;
+    }
+
+    .entry-partofspeech {
+        margin: 2em 0em;
+    }
 }

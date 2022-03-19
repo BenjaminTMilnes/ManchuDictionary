@@ -1,14 +1,16 @@
 :root {
     --physics-blue: #105ecc;
+    --physics-blue-light: #2f7ae2;
     --border-radius: 2px;
     --border-grey: #D0D0D0;
+    --font-dark-grey: #202020;
 }
 
 body {
     margin: 0px;
     font-family: "Open Sans", sans-serif;
     font-weight: lighter;
-    color: #202020;
+    color: var(--font-dark-grey);
     overflow-wrap: break-word;
 }
 
@@ -49,6 +51,13 @@ h1 {
 h2 {
     font-size: 20px;
     text-align: left;
+    margin: 1em 0em;
+}
+
+h3 {
+    font-size: 17px;
+    text-align: left;
+    margin: 1em 0em;
 }
 
 p {
@@ -58,7 +67,7 @@ p {
 }
 
 hr {
-    border: 0;
+    border: 0px;
     height: 1px;
     background-color: var(--border-grey);
     margin: 20px 0px;
@@ -73,6 +82,10 @@ hr {
 
     h2 {
         font-size: 27px;
+    }
+
+    h3 {
+        font-size: 22px;
     }
 
     p {
@@ -92,7 +105,7 @@ hr {
     }
 }
 
-p strong {
+strong {
     font-weight: normal;
 }
 
@@ -118,5 +131,5 @@ a:hover {
 }
 
 .copybutton:hover {
-    background-color: #2f7ae2;
+    background-color: var(--physics-blue-light);
 }

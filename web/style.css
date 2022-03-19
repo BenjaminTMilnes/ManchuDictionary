@@ -133,3 +133,11 @@ a:hover {
 .copybutton:hover {
     background-color: var(--physics-blue-light);
 }
+
+.manchu {    
+    writing-mode: vertical-lr;
+}
+
+.romanisation {
+    font-style: italic;
+}

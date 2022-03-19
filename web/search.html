@@ -23,10 +23,10 @@
         <div class="search-results-leftcolumn">
             <div class="search-results-entry" ng-repeat="entry in currentPageSearchResults" ng-click="goToEntry(entry.URLReference)">
                 <div class="search-results-entry-left">
-                    <div class="search-results-entry-manchu">{{convertRomanisation(entry.Romanisations.Moellendorff)}}</div>
+                    <div class="search-results-entry-manchu manchu">{{convertRomanisation(entry.Romanisations.Moellendorff)}}</div>
                 </div>
                 <div class="search-results-entry-right">
-                    <div class="search-results-entry-romanisation">{{entry.Romanisations.Moellendorff}}</div>
+                    <div class="search-results-entry-romanisation romanisation">{{entry.Romanisations.Moellendorff}}</div>
                     <div class="search-results-entry-partofspeech" ng-if="entry.PartOfSpeech != null"><span class="tag-{{entry.PartOfSpeech}}">{{entry.PartOfSpeech}}</span></div>                    
                     <div class="search-results-entry-interpretation" ng-repeat="interpretation in entry.Interpretations">{{$index + 1}}. {{interpretation.Text}}</div>
                 </div>

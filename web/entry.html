@@ -1,9 +1,9 @@
 <div class="entry">
     <div class="entry-left">
-        <div class="entry-manchu">{{convertRomanisation(entry.Romanisations.Moellendorff)}}</div>
+        <div class="entry-manchu manchu">{{convertRomanisation(entry.Romanisations.Moellendorff)}}</div>
     </div>
     <div class="entry-right">
-        <div class="entry-romanisation-moellendorff">{{entry.Romanisations.Moellendorff}}</div>
+        <div class="entry-romanisation-moellendorff romanisation">{{entry.Romanisations.Moellendorff}}</div>
         <div class="entry-partofspeech"><span class="tag-{{entry.PartOfSpeech}}">{{entry.PartOfSpeech}}</span></div>
         <div class="entry-interpretations">
             <div class="entry-interpretations-interpretation" ng-repeat="interpretation in entry.Interpretations">
@@ -16,11 +16,23 @@
                 <tbody>
                     <tr ng-repeat="inflexion in inflexions">
                         <td class="inflexion-type">{{inflexion.Type}}</td>
-                        <td class="inflexion-manchu">{{convertRomanisation(inflexion.Romanisations.Moellendorff)}}</td>
-                        <td class="inflexion-romanisation-moellendorff">{{inflexion.Romanisations.Moellendorff}}</td>
+                        <td class="inflexion-manchu manchu">{{convertRomanisation(inflexion.Romanisations.Moellendorff)}}</td>
+                        <td class="inflexion-romanisation-moellendorff romanisation">{{inflexion.Romanisations.Moellendorff}}</td>
                     </tr>
                 </tbody>
             </table>
+        </div>
+        <div class="entry-examples" ng-show="entry.Examples.length > 0">
+            <h3>Examples</h3>
+            <div class="entry-examples-example" ng-repeat="example in entry.Examples">
+                <div class="entry-examples-example-left">
+                    <div class="entry-examples-example-manchu manchu">{{convertRomanisation(example.Romanisations.Moellendorff)}}</div>
+                </div>
+                <div class="entry-examples-example-right">
+                    <div class="entry-examples-example-romanisation romanisation">{{example.Romanisations.Moellendorff}}</div>
+                    <div class="entry-examples-example-interpretation">&lsquo;{{example.Interpretations[0].Text}}&rsquo;</div>
+                </div>
+            </div>
         </div>
         <div class="entry-references" ng-show="references.length > 0">
             <h3>References</h3>

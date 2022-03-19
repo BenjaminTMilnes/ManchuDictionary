@@ -80,12 +80,10 @@
 .search-results-entry-right {}
 
 .search-results-entry-manchu {
-    writing-mode: vertical-lr;
     font-size: 4em;
 }
 
 .search-results-entry-romanisation {
-    font-style: italic;
     font-size: 1.75em;
 }
 

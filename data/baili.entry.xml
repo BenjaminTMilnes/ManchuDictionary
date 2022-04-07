@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <entry>
     <unicode></unicode>
-    <part-of-speech>preposition</part-of-speech>
+    <part-of-speech>noun</part-of-speech>
     <romanisations>
-        <romanisation system="moellendorff">de</romanisation>
+        <romanisation system="moellendorff">baili</romanisation>
     </romanisations>
     <interpretations>
         <interpretation language="english" references="Moellendorff1892">
-            <text>in</text>
+            <text>kindness</text>
         </interpretation>
     </interpretations>
 </entry>

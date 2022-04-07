@@ -16,5 +16,15 @@
                 <romanisation system="moellendorff">serengge</romanisation>
             </romanisations>
         </inflexion>
+        <inflexion type="infinitive">
+            <romanisations>
+                <romanisation system="moellendorff">seme</romanisation>
+            </romanisations>
+        </inflexion>
+        <inflexion type="gerund">
+            <romanisations>
+                <romanisation system="moellendorff">seme</romanisation>
+            </romanisations>
+        </inflexion>
     </inflexions>
 </entry>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<entry>
+    <unicode></unicode>
+    <part-of-speech>verb</part-of-speech>
+    <romanisations>
+        <romanisation system="moellendorff">ainambi</romanisation>
+    </romanisations>
+    <interpretations>
+        <interpretation language="english" references="Moellendorff1892">
+            <text>to do what</text>
+        </interpretation>
+    </interpretations>
+    <inflexions>
+        <inflexion type="future_tense">
+            <romanisations>
+                <romanisation system="moellendorff">ainara</romanisation>
+            </romanisations>
+        </inflexion>
+    </inflexions>
+</entry>

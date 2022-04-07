@@ -16,5 +16,10 @@
                 <romanisation system="moellendorff">mini</romanisation>
             </romanisations>
         </inflexion>
+        <inflexion type="dative">
+            <romanisations>
+                <romanisation system="moellendorff">minde</romanisation>
+            </romanisations>
+        </inflexion>
     </inflexions>
 </entry>

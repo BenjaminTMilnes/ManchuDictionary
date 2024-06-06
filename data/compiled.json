@@ -1080,6 +1080,32 @@
             "Examples": []
         },
         {
+            "URLReference": "karulambi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "karulambi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to repay",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "subjunctive": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "karulaki"
+                    }
+                }
+            },
+            "Examples": []
+        },
+        {
             "URLReference": "kesi",
             "Unicode": null,
             "PartOfSpeech": "noun",

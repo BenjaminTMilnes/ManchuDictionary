@@ -1752,6 +1752,25 @@
             "Examples": []
         },
         {
+            "URLReference": "urunakuu",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "urunak\u016b"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "must",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "uthai",
             "Unicode": null,
             "PartOfSpeech": "conjunction",

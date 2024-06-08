@@ -131,6 +131,25 @@
             "Examples": []
         },
         {
+            "URLReference": "ainu",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "ainu"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "why",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "angga",
             "Unicode": null,
             "PartOfSpeech": "noun",
@@ -1754,7 +1773,7 @@
         {
             "URLReference": "urunakuu",
             "Unicode": null,
-            "PartOfSpeech": "verb",
+            "PartOfSpeech": null,
             "Romanisations": {
                 "Moellendorff": "urunak\u016b"
             },

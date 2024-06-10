@@ -86,6 +86,25 @@
             "Examples": []
         },
         {
+            "URLReference": "aika",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "aika"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "perhaps",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "aikabade",
             "Unicode": null,
             "PartOfSpeech": null,

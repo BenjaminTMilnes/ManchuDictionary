@@ -938,6 +938,25 @@
             "Examples": []
         },
         {
+            "URLReference": "guuwao",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "g\u016bwao"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "other",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "huulambi",
             "Unicode": null,
             "PartOfSpeech": "verb",

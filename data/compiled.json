@@ -919,6 +919,25 @@
             "Examples": []
         },
         {
+            "URLReference": "gurun",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "gurun"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "empire",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "huulambi",
             "Unicode": null,
             "PartOfSpeech": "verb",

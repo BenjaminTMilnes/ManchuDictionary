@@ -957,6 +957,25 @@
             "Examples": []
         },
         {
+            "URLReference": "hendumbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "hendumbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to speak",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "huulambi",
             "Unicode": null,
             "PartOfSpeech": "verb",

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<entry>
+    <unicode></unicode>
+    <part-of-speech>particle</part-of-speech>
+    <romanisations>
+        <romanisation system="moellendorff">dere</romanisation>
+    </romanisations>
+    <interpretations>
+        <interpretation language="english" references="Moellendorff1892">
+            <text>a final particle expressing doubt</text>
+        </interpretation>
+    </interpretations>
+    <inflexions>
+    </inflexions>
+</entry>

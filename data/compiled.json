@@ -685,6 +685,25 @@
             "Examples": []
         },
         {
+            "URLReference": "dere",
+            "Unicode": null,
+            "PartOfSpeech": "particle",
+            "Romanisations": {
+                "Moellendorff": "dere"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "a final particle expressing doubt",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "donjimbi",
             "Unicode": null,
             "PartOfSpeech": "verb",

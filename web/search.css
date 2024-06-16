@@ -107,7 +107,7 @@
     }
 }
 
-.tag-noun, .tag-pronoun, .tag-verb, .tag-adjective, .tag-adverb {
+.tag-noun, .tag-pronoun, .tag-verb, .tag-adjective, .tag-adverb, .tag-particle {
     background-color: hsl(0, 0%, 90%);
     border-radius: var(--border-radius);
     padding: 0.1em 0.5em;
@@ -136,6 +136,12 @@
 .tag-adverb {
     background-color: hsl(140, 70%, 50%);
 }
+
+.tag-particle {
+    background-color: hsl(30, 80%, 50%);
+}
+
+
 
 .search-results-pagenumbers {
     display: flex;

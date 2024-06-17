@@ -1712,6 +1712,25 @@
             "Examples": []
         },
         {
+            "URLReference": "tetendere",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "tetendere"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "supposing",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "tucimbi",
             "Unicode": null,
             "PartOfSpeech": "verb",

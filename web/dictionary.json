@@ -1367,6 +1367,25 @@
             "Examples": []
         },
         {
+            "URLReference": "nekulembi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "nekulembi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to be useful",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "nikan",
             "Unicode": null,
             "PartOfSpeech": null,

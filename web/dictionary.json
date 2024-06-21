@@ -704,6 +704,25 @@
             "Examples": []
         },
         {
+            "URLReference": "dolo",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "dolo"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "interior, in the family",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "donjimbi",
             "Unicode": null,
             "PartOfSpeech": "verb",

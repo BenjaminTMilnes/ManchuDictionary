@@ -1341,6 +1341,32 @@
             "Examples": []
         },
         {
+            "URLReference": "muse",
+            "Unicode": null,
+            "PartOfSpeech": "pronoun",
+            "Romanisations": {
+                "Moellendorff": "muse"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "we, we two",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "genetive": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "musei"
+                    }
+                }
+            },
+            "Examples": []
+        },
+        {
             "URLReference": "mutembi",
             "Unicode": null,
             "PartOfSpeech": "verb",
@@ -1415,6 +1441,25 @@
                     }
                 }
             },
+            "Examples": []
+        },
+        {
+            "URLReference": "niyalma",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "niyalma"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "man",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
             "Examples": []
         },
         {

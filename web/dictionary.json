@@ -1840,6 +1840,25 @@
             "Examples": []
         },
         {
+            "URLReference": "tuttu",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "tuttu"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "thus",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "tuwanjimbi",
             "Unicode": null,
             "PartOfSpeech": "verb",

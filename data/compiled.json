@@ -1014,6 +1014,25 @@
             "Examples": []
         },
         {
+            "URLReference": "hukshembi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "huk\u0161embi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to be thankful",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "huulambi",
             "Unicode": null,
             "PartOfSpeech": "verb",

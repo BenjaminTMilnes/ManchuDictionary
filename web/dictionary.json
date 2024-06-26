@@ -2063,6 +2063,25 @@
             "Examples": []
         },
         {
+            "URLReference": "wajimbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "wajimbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to end",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "waka",
             "Unicode": null,
             "PartOfSpeech": null,

@@ -1014,6 +1014,25 @@
             "Examples": []
         },
         {
+            "URLReference": "hengkishembi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "hengki\u0161embi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to prostrate oneself",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "hukshembi",
             "Unicode": null,
             "PartOfSpeech": "verb",

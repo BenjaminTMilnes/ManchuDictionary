@@ -525,6 +525,25 @@
             "Examples": []
         },
         {
+            "URLReference": "baniha",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "baniha"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "thanks",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "banjibumbi",
             "Unicode": null,
             "PartOfSpeech": "verb",

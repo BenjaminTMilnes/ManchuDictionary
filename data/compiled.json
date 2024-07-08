@@ -647,6 +647,32 @@
             "Examples": []
         },
         {
+            "URLReference": "bumbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "bumbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to give",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "future": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "bure"
+                    }
+                }
+            },
+            "Examples": []
+        },
+        {
             "URLReference": "da",
             "Unicode": null,
             "PartOfSpeech": "preposition",

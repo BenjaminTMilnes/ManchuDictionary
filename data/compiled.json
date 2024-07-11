@@ -692,6 +692,25 @@
             "Examples": []
         },
         {
+            "URLReference": "dabala",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "dabala"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "only",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "damu",
             "Unicode": null,
             "PartOfSpeech": null,

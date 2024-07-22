@@ -1462,6 +1462,25 @@
             "Examples": []
         },
         {
+            "URLReference": "mudan",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "mudan"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "pronunciation",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "muse",
             "Unicode": null,
             "PartOfSpeech": "pronoun",

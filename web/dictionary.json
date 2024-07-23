@@ -1961,6 +1961,25 @@
             "Examples": []
         },
         {
+            "URLReference": "tomorhon",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "tomorhon"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "clear",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "tucimbi",
             "Unicode": null,
             "PartOfSpeech": "verb",

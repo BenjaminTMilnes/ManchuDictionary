@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<entry>
+    <unicode></unicode>
+    <part-of-speech>verb</part-of-speech>
+    <romanisations>
+        <romanisation system="moellendorff">gaimbi</romanisation>
+    </romanisations>
+    <interpretations>
+        <interpretation language="english" references="Moellendorff1892">
+            <text>to take, to obtain</text>
+        </interpretation>
+    </interpretations>
+    <inflexions>
+        <inflexion type="verbal_noun">
+            <romanisations>
+                <romanisation system="moellendorff">gairengge</romanisation>
+            </romanisations>
+        </inflexion>
+    </inflexions>
+</entry>

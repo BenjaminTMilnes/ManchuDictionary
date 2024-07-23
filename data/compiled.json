@@ -912,6 +912,32 @@
             "Examples": []
         },
         {
+            "URLReference": "gaimbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "gaimbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to take, to obtain",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "verbal_noun": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "gairengge"
+                    }
+                }
+            },
+            "Examples": []
+        },
+        {
             "URLReference": "geli",
             "Unicode": null,
             "PartOfSpeech": null,

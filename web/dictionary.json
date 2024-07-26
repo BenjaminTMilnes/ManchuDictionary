@@ -711,6 +711,32 @@
             "Examples": []
         },
         {
+            "URLReference": "dabumbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "dabumbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to count",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "past_gerund": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "dabufi"
+                    }
+                }
+            },
+            "Examples": []
+        },
+        {
             "URLReference": "damu",
             "Unicode": null,
             "PartOfSpeech": null,

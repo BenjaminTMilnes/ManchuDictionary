@@ -1412,6 +1412,32 @@
             "Examples": []
         },
         {
+            "URLReference": "maktambi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "maktambi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to praise",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "future": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "maktara"
+                    }
+                }
+            },
+            "Examples": []
+        },
+        {
             "URLReference": "mangga",
             "Unicode": null,
             "PartOfSpeech": "adjective",

@@ -1073,6 +1073,25 @@
             "Examples": []
         },
         {
+            "URLReference": "gucu",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "gucu"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "friend",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "gurun",
             "Unicode": null,
             "PartOfSpeech": "noun",

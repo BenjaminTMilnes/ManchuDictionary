@@ -737,6 +737,25 @@
             "Examples": []
         },
         {
+            "URLReference": "dacun",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "dacun"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "quick, fluent",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "damu",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -993,6 +1012,25 @@
                 {
                     "Language": "english",
                     "Text": "both; alike",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "getuken",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "getuken"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "intelligible",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -1422,6 +1460,25 @@
                 {
                     "Language": "english",
                     "Text": "grace",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "majige",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "majige"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "little",
                     "References": [
                         "Moellendorff1892"
                     ]

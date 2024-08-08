@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<entry>
+    <unicode></unicode>
+    <part-of-speech>verb</part-of-speech>
+    <romanisations>
+        <romanisation system="moellendorff">sandalabumbi</romanisation>
+    </romanisations>
+    <interpretations>
+        <interpretation language="english" references="Moellendorff1892">
+            <text>to be separated</text>
+        </interpretation>
+    </interpretations>
+    <inflexions>
+        <inflexion type="indicative_past">
+            <romanisations>
+                <romanisation system="moellendorff">sandalabuhabi</romanisation>
+            </romanisations>
+        </inflexion>
+    </inflexions>
+</entry>

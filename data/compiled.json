@@ -226,6 +226,25 @@
             "Examples": []
         },
         {
+            "URLReference": "amuran",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "amuran"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "having a passion for",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "angga",
             "Unicode": null,
             "PartOfSpeech": "noun",
@@ -1142,6 +1161,25 @@
             "Examples": []
         },
         {
+            "URLReference": "gala",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "gala"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "hand",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "geli",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -1375,6 +1413,44 @@
                 {
                     "Language": "english",
                     "Text": "to prostrate oneself",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "hokobumbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "hokobumbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to leave off",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "hono",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "hono"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "also",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -1638,6 +1714,25 @@
                 {
                     "Language": "english",
                     "Text": "grace",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "labdu",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "labdu"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "much",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -2075,6 +2170,32 @@
             "Examples": []
         },
         {
+            "URLReference": "sandalabumbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "sandalabumbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to be separated",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "indicative_past": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "sandalabuhabi"
+                    }
+                }
+            },
+            "Examples": []
+        },
+        {
             "URLReference": "sartabumbi",
             "Unicode": null,
             "PartOfSpeech": "verb",
@@ -2187,6 +2308,25 @@
                 {
                     "Language": "english",
                     "Text": "leisure",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "shumin",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "\u0161umin"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "deep",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -2366,6 +2506,25 @@
                     }
                 }
             },
+            "Examples": []
+        },
+        {
+            "URLReference": "turgun",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "turgun"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "reason",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
             "Examples": []
         },
         {

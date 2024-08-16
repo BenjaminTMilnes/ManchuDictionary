@@ -245,6 +245,32 @@
             "Examples": []
         },
         {
+            "URLReference": "amcambi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "amcambi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to reach",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "subjunctive": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "amcaki"
+                    }
+                }
+            },
+            "Examples": []
+        },
+        {
             "URLReference": "amuran",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -1090,6 +1116,25 @@
             "Examples": []
         },
         {
+            "URLReference": "ere",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "ere"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "this",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "fe",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -1394,6 +1439,25 @@
                 {
                     "Language": "english",
                     "Text": "other",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "hada",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "hada"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "rock",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -2407,6 +2471,25 @@
             "Examples": []
         },
         {
+            "URLReference": "tasharabumbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "ta\u0161arabumbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to cause an error",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "te",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -2806,6 +2889,25 @@
                 {
                     "Language": "english",
                     "Text": "not",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "yala",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "yala"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "certainly",
                     "References": [
                         "Moellendorff1892"
                     ]

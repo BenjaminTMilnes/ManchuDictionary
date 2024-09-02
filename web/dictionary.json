@@ -729,6 +729,25 @@
             "Examples": []
         },
         {
+            "URLReference": "banjinjimbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "banjinjimbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to come into life",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "bi",
             "Unicode": null,
             "PartOfSpeech": "pronoun",
@@ -1320,6 +1339,32 @@
             "Examples": []
         },
         {
+            "URLReference": "girkuumbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "girk\u016bmbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to exert",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "past_gerund": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "girk\u016bfi"
+                    }
+                }
+            },
+            "Examples": []
+        },
+        {
             "URLReference": "gisun",
             "Unicode": null,
             "PartOfSpeech": "noun",
@@ -1429,6 +1474,25 @@
             "Examples": []
         },
         {
+            "URLReference": "guunin",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "g\u016bnin"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "thought",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "guuwao",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -1448,6 +1512,25 @@
             "Examples": []
         },
         {
+            "URLReference": "hacin",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "hacin"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "kind",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "hada",
             "Unicode": null,
             "PartOfSpeech": "noun",
@@ -1458,6 +1541,25 @@
                 {
                     "Language": "english",
                     "Text": "rock",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "hafumbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "hafumbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to penetrate",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -1659,6 +1761,25 @@
             "Examples": []
         },
         {
+            "URLReference": "isimbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "isimbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to arrive",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "isinambi",
             "Unicode": null,
             "PartOfSpeech": "verb",
@@ -1675,6 +1796,32 @@
                 }
             ],
             "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "jafambi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "jafambi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to take",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "past_gerund": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "jafafi"
+                    }
+                }
+            },
             "Examples": []
         },
         {
@@ -1982,6 +2129,25 @@
                 {
                     "Language": "english",
                     "Text": "pronunciation",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "mujilen",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "mujilen"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "heart",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -2889,6 +3055,25 @@
                 {
                     "Language": "english",
                     "Text": "not",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "ya",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "ya"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "whatsoever",
                     "References": [
                         "Moellendorff1892"
                     ]

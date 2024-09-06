@@ -851,6 +851,25 @@
             "Examples": []
         },
         {
+            "URLReference": "cilcin",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "cilcin"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "fault",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "da",
             "Unicode": null,
             "PartOfSpeech": "preposition",
@@ -944,6 +963,25 @@
                 {
                     "Language": "english",
                     "Text": "but",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "dasatambi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "dasatambi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to correct",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -1671,6 +1709,25 @@
             "Examples": []
         },
         {
+            "URLReference": "hergen",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "hergen"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "letter",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "hokobumbi",
             "Unicode": null,
             "PartOfSpeech": "verb",
@@ -1803,6 +1860,25 @@
                     }
                 }
             },
+            "Examples": []
+        },
+        {
+            "URLReference": "ijishuun",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "ijish\u016bn"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "proper",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
             "Examples": []
         },
         {
@@ -2438,6 +2514,25 @@
             "Examples": []
         },
         {
+            "URLReference": "nonggibumbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "nonggibumbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to make progress",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "ohode",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -2831,6 +2926,32 @@
                 }
             ],
             "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "simnembi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "simnembi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to be examined",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "conditional": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "simneci"
+                    }
+                }
+            },
             "Examples": []
         },
         {

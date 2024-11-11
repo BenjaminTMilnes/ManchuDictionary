@@ -748,6 +748,25 @@
             "Examples": []
         },
         {
+            "URLReference": "beye",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "beye"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "body, self",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "bi",
             "Unicode": null,
             "PartOfSpeech": "pronoun",
@@ -1614,6 +1633,25 @@
             "Examples": []
         },
         {
+            "URLReference": "guusa",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "g\u016bsa"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "banner",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "guuwao",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -2098,6 +2136,25 @@
             "Examples": []
         },
         {
+            "URLReference": "jakuun",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "jak\u016bn"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "eight",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "juwan",
             "Unicode": null,
             "PartOfSpeech": "number",
@@ -2179,6 +2236,25 @@
                 {
                     "Language": "english",
                     "Text": "grace",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "kooli",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "kooli"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "custom",
                     "References": [
                         "Moellendorff1892"
                     ]

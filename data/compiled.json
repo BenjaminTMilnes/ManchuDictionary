@@ -1192,6 +1192,25 @@
             "Examples": []
         },
         {
+            "URLReference": "esi",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "esi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "certainly",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "fe",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -1318,6 +1337,25 @@
                 {
                     "Language": "english",
                     "Text": "hand",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "gebu",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "gebu"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "name",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -3418,6 +3456,25 @@
                 {
                     "Language": "english",
                     "Text": "not",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "wei",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "wei"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "whose",
                     "References": [
                         "Moellendorff1892"
                     ]

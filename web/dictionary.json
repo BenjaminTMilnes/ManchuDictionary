@@ -3190,6 +3190,25 @@
             "Examples": []
         },
         {
+            "URLReference": "tome",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "tome"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "all",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "tomorhon",
             "Unicode": null,
             "PartOfSpeech": null,

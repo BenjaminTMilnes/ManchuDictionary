@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<entry>
+    <unicode></unicode>
+    <part-of-speech>verb</part-of-speech>
+    <romanisations>
+        <romanisation system="moellendorff">hacihiyambi</romanisation>
+    </romanisations>
+    <interpretations>
+        <interpretation language="english" references="Moellendorff1892">
+            <text>to exert oneself</text>
+        </interpretation>
+    </interpretations>
+    <inflexions>
+        <inflexion type="gerund">
+            <romanisations>
+                <romanisation system="moellendorff">hacihiyame</romanisation>
+            </romanisations>
+        </inflexion>
+    </inflexions>
+</entry>

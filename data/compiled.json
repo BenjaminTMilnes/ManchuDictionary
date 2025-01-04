@@ -162,6 +162,25 @@
             "Examples": []
         },
         {
+            "URLReference": "ainahai",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "ainahai"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "how should it?",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "ainambi",
             "Unicode": null,
             "PartOfSpeech": "verb",
@@ -290,6 +309,25 @@
             "Examples": []
         },
         {
+            "URLReference": "aname",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "aname"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "singly",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "angga",
             "Unicode": null,
             "PartOfSpeech": "noun",
@@ -300,6 +338,25 @@
                 {
                     "Language": "english",
                     "Text": "mouth",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "anggala",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "anggala"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "not only",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -521,6 +578,25 @@
                 {
                     "Language": "english",
                     "Text": "place",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "bade",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "bade"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "when",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -1109,6 +1185,25 @@
             ]
         },
         {
+            "URLReference": "doro",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "doro"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "rule",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "dube",
             "Unicode": null,
             "PartOfSpeech": "noun",
@@ -1441,6 +1536,25 @@
             "Examples": []
         },
         {
+            "URLReference": "gesengge",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "gesengge"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "similar",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "getuken",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -1668,6 +1782,32 @@
                 }
             ],
             "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "hacihiyambi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "hacihiyambi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to exert oneself",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "gerund": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "hacihiyame"
+                    }
+                }
+            },
             "Examples": []
         },
         {
@@ -2155,6 +2295,25 @@
             "Examples": []
         },
         {
+            "URLReference": "jurgangga",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "jurgangga"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "public",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "juwan",
             "Unicode": null,
             "PartOfSpeech": "number",
@@ -2549,6 +2708,25 @@
                 {
                     "Language": "english",
                     "Text": "earth",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "nashuun",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "nash\u016bn"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "opportunity",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -3133,6 +3311,25 @@
             "Examples": []
         },
         {
+            "URLReference": "teile",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "teile"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "only",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "tere",
             "Unicode": null,
             "PartOfSpeech": "pronoun",
@@ -3401,6 +3598,25 @@
             "Examples": []
         },
         {
+            "URLReference": "ume",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "ume"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "do not",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "umesi",
             "Unicode": null,
             "PartOfSpeech": "adverb",
@@ -3595,6 +3811,32 @@
                 }
             ],
             "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "yabumbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "yabumbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to go; to cause to go",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "imperative_passive": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "yabubu"
+                    }
+                }
+            },
             "Examples": []
         },
         {

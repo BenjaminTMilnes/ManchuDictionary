@@ -2544,6 +2544,25 @@
             "Examples": []
         },
         {
+            "URLReference": "manjurambi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "manjurambi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to speak Manchu",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "marimbi",
             "Unicode": null,
             "PartOfSpeech": "verb",
@@ -2637,6 +2656,25 @@
                 {
                     "Language": "english",
                     "Text": "heart",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "muru",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "muru"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "appearance",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -2918,6 +2956,25 @@
                 {
                     "Language": "english",
                     "Text": "twenty",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "oron",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "oron"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "interval, place",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -3560,6 +3617,32 @@
             "Examples": []
         },
         {
+            "URLReference": "ufarabumbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "ufarabumbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to neglect",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "future": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "ufarabure"
+                    }
+                }
+            },
+            "Examples": []
+        },
+        {
             "URLReference": "uju",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -3576,6 +3659,32 @@
                 }
             ],
             "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "ulhimbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "ulhimbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to understand",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "future": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "ulhire"
+                    }
+                }
+            },
             "Examples": []
         },
         {
@@ -3627,6 +3736,25 @@
                 {
                     "Language": "english",
                     "Text": "very",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "unde",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "unde"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "not yet",
                     "References": [
                         "Moellendorff1892"
                     ]

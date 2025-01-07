@@ -245,6 +245,25 @@
             "Examples": []
         },
         {
+            "URLReference": "aldungga",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "aldungga"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "extraordinary, strange",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "aljabumbi",
             "Unicode": null,
             "PartOfSpeech": "verb",
@@ -1249,6 +1268,25 @@
             "Examples": []
         },
         {
+            "URLReference": "duin",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "duin"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "four",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "ede",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -1259,6 +1297,25 @@
                 {
                     "Language": "english",
                     "Text": "so; then",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "emu",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "emu"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "one",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -1367,6 +1424,25 @@
                     }
                 }
             },
+            "Examples": []
+        },
+        {
+            "URLReference": "fiyelen",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "fiyelen"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "chapter, piece",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
             "Examples": []
         },
         {
@@ -2920,6 +2996,25 @@
             "Examples": []
         },
         {
+            "URLReference": "onggolo",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "onggolo"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "before",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "onggombi",
             "Unicode": null,
             "PartOfSpeech": "verb",
@@ -3301,6 +3396,70 @@
                     }
                 }
             },
+            "Examples": []
+        },
+        {
+            "URLReference": "sirabumbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "sirabumbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to connect",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {
+                "infinitive": {
+                    "Unicode": "",
+                    "Romanisations": {
+                        "Moellendorff": "sirabume"
+                    }
+                }
+            },
+            "Examples": []
+        },
+        {
+            "URLReference": "siran",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "siran"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "continuation",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "sunja",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "sunja"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "five",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
             "Examples": []
         },
         {

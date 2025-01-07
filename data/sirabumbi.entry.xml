@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<entry>
+    <unicode></unicode>
+    <part-of-speech>verb</part-of-speech>
+    <romanisations>
+        <romanisation system="moellendorff">sirabumbi</romanisation>
+    </romanisations>
+    <interpretations>
+        <interpretation language="english" references="Moellendorff1892">
+            <text>to connect</text>
+        </interpretation>
+    </interpretations>
+    <inflexions>
+        <inflexion type="infinitive">
+            <romanisations>
+                <romanisation system="moellendorff">sirabume</romanisation>
+            </romanisations>
+        </inflexion>
+    </inflexions>
+</entry>

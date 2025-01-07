@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<entry>
+    <unicode></unicode>
+    <part-of-speech></part-of-speech>
+    <romanisations>
+        <romanisation system="moellendorff">sunja</romanisation>
+    </romanisations>
+    <interpretations>
+        <interpretation language="english" references="Moellendorff1892">
+            <text>five</text>
+        </interpretation>
+    </interpretations>
+    <inflexions>
+    </inflexions>
+</entry>

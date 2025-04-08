@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <entry>
     <unicode></unicode>
-    <part-of-speech></part-of-speech>
+    <part-of-speech>verb</part-of-speech>
     <romanisations>
-        <romanisation system="moellendorff">ohode</romanisation>
+        <romanisation system="moellendorff">tathūnjambi</romanisation>
     </romanisations>
     <interpretations>
         <interpretation language="english" references="Moellendorff1892">
-            <text>supposing, if, when</text>
+            <text>to doubt, to be uncertain, to be alarmed</text>
         </interpretation>
     </interpretations>
     <inflexions>

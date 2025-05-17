@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<entry>
+    <unicode></unicode>
+    <part-of-speech>noun</part-of-speech>
+    <romanisations>
+        <romanisation system="moellendorff">sefu</romanisation>
+    </romanisations>
+    <interpretations>
+        <interpretation language="english" references="Moellendorff1892">
+            <text>teacher</text>
+        </interpretation>
+        <interpretation language="chinese" references="Moellendorff1892">
+            <text>師傅</text>
+        </interpretation>
+    </interpretations>
+    <inflexions>
+    </inflexions>
+</entry>

@@ -48,6 +48,25 @@
             "Examples": []
         },
         {
+            "URLReference": "adaki",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "adaki"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "neighbour",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "adali",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -153,6 +172,25 @@
                 {
                     "Language": "english",
                     "Text": "what",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "aibide",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "aibide"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "where?",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -682,6 +720,63 @@
             "Examples": []
         },
         {
+            "URLReference": "arga",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "arga"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "trick, expedient",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "atanggi-bicibe",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "atanggi bicibe"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "whenever it may be",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "atanggi",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "atanggi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "when?",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "ba",
             "Unicode": null,
             "PartOfSpeech": "noun",
@@ -782,6 +877,25 @@
                 {
                     "Language": "english",
                     "Text": "only",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "baihanumbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "baihanumbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to go to search",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -1629,6 +1743,25 @@
             "Examples": []
         },
         {
+            "URLReference": "ele",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "ele"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "whoever",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "emgeri",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -1696,6 +1829,25 @@
                 {
                     "Language": "english",
                     "Text": "different, other",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "erde",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "erde"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "morning",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -1845,6 +1997,25 @@
             "Examples": []
         },
         {
+            "URLReference": "foholon",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "foholon"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "short",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "fuhali",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -1887,6 +2058,25 @@
                     }
                 }
             },
+            "Examples": []
+        },
+        {
+            "URLReference": "funde",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "funde"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "for",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
             "Examples": []
         },
         {
@@ -2116,6 +2306,25 @@
                 {
                     "Language": "english",
                     "Text": "intelligible",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "ginggulembi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "ginggulembi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to honour",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -2794,6 +3003,25 @@
             "Examples": []
         },
         {
+            "URLReference": "huuncihin",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "h\u016bncihin"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "relation by marriage",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "huuwashambi",
             "Unicode": null,
             "PartOfSpeech": "verb",
@@ -2887,6 +3115,25 @@
                 {
                     "Language": "english",
                     "Text": "tongue",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "ineku",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "ineku"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "the same",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -3093,6 +3340,25 @@
             "Examples": []
         },
         {
+            "URLReference": "jakade",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "jakade"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "because",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "jakan",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -3122,6 +3388,25 @@
                 {
                     "Language": "english",
                     "Text": "eight",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "jalgiyanjambi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "jalgiyanjambi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to supply",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -3245,6 +3530,25 @@
             "Examples": []
         },
         {
+            "URLReference": "jorin",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "jorin"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "aim, explanation",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "juleri",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -3351,6 +3655,25 @@
                     }
                 }
             },
+            "Examples": []
+        },
+        {
+            "URLReference": "kemnembi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "kemnembi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to measure",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
             "Examples": []
         },
         {
@@ -3570,6 +3893,25 @@
             "Examples": []
         },
         {
+            "URLReference": "manggi",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "manggi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "as soon as",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "manju",
             "Unicode": null,
             "PartOfSpeech": "noun",
@@ -3672,6 +4014,25 @@
             "Examples": []
         },
         {
+            "URLReference": "mini",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "mini"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "my",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "mudan",
             "Unicode": null,
             "PartOfSpeech": "noun",
@@ -3720,6 +4081,25 @@
                 {
                     "Language": "english",
                     "Text": "to become cool",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "mukuun",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "muk\u016bn"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "clan",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -3800,6 +4180,25 @@
             "Examples": []
         },
         {
+            "URLReference": "mutumbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "mutumbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to grow",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "na",
             "Unicode": null,
             "PartOfSpeech": "noun",
@@ -3810,6 +4209,25 @@
                 {
                     "Language": "english",
                     "Text": "earth",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "nandambi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "nandambi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to request",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -3946,6 +4364,25 @@
             "Examples": []
         },
         {
+            "URLReference": "niyaman",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "niyaman"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "blood relation",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "niyamangga",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -3994,6 +4431,25 @@
                 {
                     "Language": "english",
                     "Text": "supposing, if, when",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "ojoro",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "ojoro"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "can, may",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -4207,6 +4663,25 @@
             "Examples": []
         },
         {
+            "URLReference": "saniyambi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "saniyambi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to extend",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "sartabumbi",
             "Unicode": null,
             "PartOfSpeech": "verb",
@@ -4399,6 +4874,25 @@
             "Examples": []
         },
         {
+            "URLReference": "shun",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "\u0161un"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "sun",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "shungke",
             "Unicode": null,
             "PartOfSpeech": null,
@@ -4409,6 +4903,25 @@
                 {
                     "Language": "english",
                     "Text": "well read",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "shurdeme",
+            "Unicode": null,
+            "PartOfSpeech": null,
+            "Romanisations": {
+                "Moellendorff": "\u0161urdeme"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "all round",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -4454,6 +4967,25 @@
                 {
                     "Language": "english",
                     "Text": "middle",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "silgimbi",
+            "Unicode": null,
+            "PartOfSpeech": "verb",
+            "Romanisations": {
+                "Moellendorff": "silgimbi"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "to put into",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -4544,6 +5076,25 @@
                 {
                     "Language": "english",
                     "Text": "five",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "tacikuu",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "tacik\u016b"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "school",
                     "References": [
                         "Moellendorff1892"
                     ]
@@ -5044,6 +5595,25 @@
             "Examples": []
         },
         {
+            "URLReference": "uksun",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "uksun"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "relationship",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
             "URLReference": "ulhimbi",
             "Unicode": null,
             "PartOfSpeech": "verb",
@@ -5436,6 +6006,25 @@
                 {
                     "Language": "english",
                     "Text": "certainly",
+                    "References": [
+                        "Moellendorff1892"
+                    ]
+                }
+            ],
+            "Inflexions": {},
+            "Examples": []
+        },
+        {
+            "URLReference": "yamji",
+            "Unicode": null,
+            "PartOfSpeech": "noun",
+            "Romanisations": {
+                "Moellendorff": "yamji"
+            },
+            "Interpretations": [
+                {
+                    "Language": "english",
+                    "Text": "evening",
                     "References": [
                         "Moellendorff1892"
                     ]
